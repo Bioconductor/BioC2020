@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+{% seo %}
+
+    <link rel="SHORTCUT ICON" type="image/x-icon" href="/images/favicon.ico" />
+    <link rel="ICON" type="image/x-icon" href="/images/favicon.ico" />
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+
+        <p>
+          <a href="https://bioconductor.org/">
+            <img src="./images/logo_bioconductor.gif"
+                 alt="Bioconductor"
+                 style="padding: 10px 0px; vertical-align: middle"
+                 />
+          </a>
+        </p>
+
+        <p>
+          <a href="./index">Conference Home</a><br />
+          <a href="./registration">Registration</a><br />
+          <a href="./call-for-abstracts">Call for submissions</a><br />
+          <a href="./travel-accommodations">Travel &amp; Accommodation</a><br />
+          <br />
+          Schedule<br />
+          - <a href="./schedule-developer-day">Developer Day</a><br />
+          - <a href="./schedule-day-one">Main Conference -- Day 1</a><br />
+          - <a href="./schedule-day-two">Main Conference -- Day 2</a><br />
+          - <a href="./schedule-gentleman-day">Robert Gentleman Symposium</a><br />
+          - <a href="./posters">Poster Titles</a><br />
+          <br />
+          Resources<br />
+          - <a href="./organizers">Organizing committee</a><br />
+<!--           - <a href="./talks-community">Contributed Talk Abstracts</a><br /> -->
+<!--           - <a href="https://bioconductor.github.io/BiocWorkshops">Workshops</a><br /> -->
+          <br />
+          <a href="./sponsor">Sponsor Opportunities</a><br />
+<!--           <a href="./poster/Bioc2019_Poster.pdf">Conference Poster (pdf)</a><br /> -->
+          <a href="./code_of_conduct">Code of Conduct</a><br />
+        </p>
+        <hr />
+        <p>
+          <a href="http://genentech.com/">
+            <img src="./images/sponsors/genentech.jpg"
+                 alt="Genentech"
+                 width="270"
+                 style="padding: 10px 0px; vertical-align: middle"
+                 />
+          </a>
+            <img src="./images/sponsors/novartis_logo_pos_rgb.png"
+                 alt="Novartis"
+                 width="270"
+                 style="padding: 10px 0px; vertical-align: middle"
+                 />
+          </a>
+          <br />
+          <a href="https://primediscoveries.com/">
+            <img src="./images/sponsors/PrimeDiscoveries.png"
+                 alt="Prime Discoveries"
+                 width="270"
+                 style="padding: 10px 0px; vertical-align: middle"
+                 />
+          </a>
+          <br />
+          <a href="https://r-consortium.org/">
+            <img src="./images/sponsors/RConsortium_Vertical_Pantone.png"
+                 alt="R Consortium"
+                 height="115"
+                 style="padding: 10px 0px; vertical-align: middle"
+                 />
+          </a>
+          <br />
+          <a href="https://rstudio.com/">
+            <img src="./images/sponsors/RStudio-Logo-Blue-Gray-250.png"
+                 alt="RStudio"
+                 width="270"
+                 style="padding: 10px 0px; vertical-align: middle"
+                 />
+          </a>
+          <br />
+          <a href="https://f1000research.com/gateways/bioconductor/">
+            <img src="./images/sponsors/F1000R_logo_header.png"
+                 alt="F1000Research"
+                 width="270"
+                 style="padding: 10px 10px; vertical-align: middle; background-color: #f2673c"
+                 />
+          </a>
+          <br />
+          <a href="https://www.roswellpark.org/">
+            <img src="./images/sponsors/rpci-logo_1.png"
+                 alt="Roswell Park Cancer Institute"
+                 width="270"
+                 style="padding: 10px 0px; vertical-align: middle"
+                 />
+          </a>
+          <br />
+          <a href="https://nyulangone.org/">
+            <img src="./images/sponsors/NYU-Langone-Health-768x402.jpg"
+                 alt="NYU"
+                 width="225"
+                 style="padding: 5px 8px; background-color: #ffffff; vertical-align: middle"
+                 />
+          </a>
+          <br />
+          <a href="https://www.rockefeller.edu/">
+            <img src="./images/sponsors/RU_logo_tagline294.jpg"
+                 alt="Rockefeller"
+                 width="270"
+                 style="padding: 5px 8px; background-color: #ffffff; vertical-align: middle"
+                 />
+          </a>
+        </p>
+        <p><small>
+            <em>Bioconductor</em>: <a href="https://bioconductor.org">https://bioconductor.org</a><br />
+            Hosted on GitHub Pages<br />
+            Theme by <a href="https://github.com/orderedlist">orderedlist</a>
+        </small></p>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+      </footer>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+  {% if site.google_analytics %}
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+    </script>
+  {% endif %}
+  </body>
+</html>

@@ -1,0 +1,6 @@
+docs/_site
+docs/.bundle/
+docs/.sass-cache/
+docs/vendor/
+resources/
+.DS_store
