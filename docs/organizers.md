@@ -3,8 +3,8 @@ layout: default
 ---
 # BioC 2019: Where Software and Biology Connect
 
-When: June 24 - 27, 2020<br />
-What: Developer Day, Main Conference, Symposium<br />
+When: July 29 - 31, 2020<br />
+What: Developer Day, Main Conference <br />
 Where: [TBA][venue], Boston, USA<br />
 Slack: [Bioconductor Team][] (`#bioc2020` channel)<br />
 Twitter: [#bioc2020][tweet]<br />
