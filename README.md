@@ -16,14 +16,16 @@ Please follow best practices by previewing changes locally.
 
 3. Install or update bundler to install the ruby pre-requisities.
 
-        gem install --user-install bundler
-        # If the installer complains, add the suggested $PATH_TO_RUBY/bin
-        # directory to your ~/.bash_profile or ~/.bashrc or similar.
+        gem install --user-install bundler # this will require to export the PATH to run the other commands
+        gem install  bundler # needs sudo
 
 4. Install ruby pre-requisites.
 
         bundle install --path vendor/bundle     # once only; references Gemfile
-        
+        # If the installer complains, add the suggested $PATH_TO_RUBY/bin
+        # $HOME/.gem/ruby/2.3.0/bin/bundle
+        # directory to your ~/.bash_profile or ~/.bashrc or similar.
+       
 5. Execute the jekyll server
 
         bundle exec jekyll serve

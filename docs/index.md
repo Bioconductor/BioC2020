@@ -14,7 +14,7 @@ layout: default
 ---
 # BioC 2020: Where Software and Biology Connect
 
-When: June 24 - 27, 2020<br />
+When: July 29 - 31, 2020<br />
 What: Developer Day, Main Conference, Symposium<br />
 Where: [venue], Boston, USA<br />
 Slack: [Bioconductor Team][] (`#bioc2020` channel)<br />
@@ -26,11 +26,11 @@ Twitter: [#bioc2020][tweet]<br />
 
 BioC2020 highlights current developments within and beyond
 the [Bioconductor](https://www.bioconductor.org) project. It consists of:
-* [Developer Day](./schedule-developer-day) June 24:
+* [Developer Day](./schedule-developer-day) July 29:
   provides developers and would-be developers with insights into
   Bioconductor project direction and software development best
   practices.
-* [Main Conference](./schedule-day-two) June 25-26:
+* [Main Conference](./schedule-day-two) July 30-31 :
   morning scientific talks and afternoon workshops provide insights
   and tools required for the analysis and comprehension of
   high-throughput genomic data.
@@ -49,9 +49,9 @@ the [Bioconductor](https://www.bioconductor.org) project. It consists of:
 
 More information: [workshop@bioconductor.org][contact]
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=bioc2019&ref_src=twsrc%5Etfw"
+<a href="https://twitter.com/intent/tweet?button_hashtag=bioc2020&ref_src=twsrc%5Etfw"
     class="twitter-hashtag-button"
-    data-show-count="false">Tweet #bioc2019</a>
+    data-show-count="false">Tweet #bioc2020</a>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
