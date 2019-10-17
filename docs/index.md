@@ -15,10 +15,6 @@ layout: default
 
 {% include header.md %}
 
-[tweet]: https://twitter.com/hashtag/bioc2020?f=tweets
-[venue]: ./travel-accommodations
-[Bioconductor Team]: https://bioc-community.herokuapp.com/
-
 BioC2020 highlights current developments within and beyond
 the [Bioconductor](https://www.bioconductor.org) project. It consists of:
 * [Developer Day](./schedule-developer-day) July 29:
