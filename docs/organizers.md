@@ -4,19 +4,43 @@ layout: default
 
 {% include header.md %}
 
-## Organizing committee
+## Members of organizing committees
+
+**Bold** highlights leaders of the committees
 
 
-| Photo | Name | Affiliation |
-|---|---|---|
-| <img src="images/KellyRuggles.jpeg" width="250"/>| Kelly Ruggles | Director Academic Programs, Sackler Institute of Graduate Biomedical Sciences and Assistant Professor of Medicine, NYU School of Medicine |
-| <img src="images/ThomasSCarroll_headshot.png" width="250" />| Thomas S. Carroll | Head of Bioinformatics, The Rockefeller University |
-| <img src="images/LorenaPantano.jpeg" width="250" /> | Lorena Pantano | Research Scientist, Biostatistic department at the Harvard TH Chan School of Public Health |
-| <img src="images/MatthewMcCall.jpeg" width="250" /> | Matthew McCall | Assistant Professor of Biostatistics and Biomedical Genetics, University of Rochester Medical Center |
-| <img src="images/PeterHickey.jpg"  width="250" /> | Peter Hickey | Senior Research Officer, Walter and Eliza Hall Institute of Medical Research, Australia |
-| <img src="images/Levi.png" width="250" /> | Levi Waldron   | Associate Professor of Biostatistics, Graduate School of Public Health and Health Policy and Institute for Implementation Science in Public Health, City University of New York|
-| <img src="images/MartinMorgan.jpg" width="250" /> | Martin Morgan | Professor, Roswell Park Comprehensive Cancer Center. Project leader, Bioconductor |
-| <img src="images/Aedin.jpg" width="250" /> | Aedin Culhane  | Dana-Farber Cancer Institute, Harvard TH Chan School of Public Health |
-| <img src="images/Laurent.jpg" width="250" /> | Laurent Gatto  | Professor of bioinformatics, de Duve Institute, UCLouvain, Belgium |
-| <img src="images/SeanDavis.png" width="250" />  | Sean Davis | Senior Associate Scientist, Center for Cancer Research, National Cancer Institute |
-| <img src="images/VincentCarey.png" width="250" /> | Vince Carey | Professor of Medicine, Channing Division of Network Medicine, Brigham and Women's Hospital, Harvard Medical School |
+| Photo                                                        | Name                    | Affiliation | Committee                                                                                                                              |
+|--------------------------------------------------------------|-------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Aedin Culhane           |             | **Co-chair**, **Sponsorship**, Program: Competitive component, Program: non-competitive component, Code of Conduct                     |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Anthony Federico        |             | Website, Education/Workshop                                                                                                            |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Ayush Raman             |             | Outreach, Education/Workshop, Program: Competitive component, Program: non-competitive component                                       |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Charlotte Soneson       |             | **Program: non-competitive component**, Website, Education/Workshop, Program: Competitive component                                    |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Chiaowen Joyce Hsiao    |             | Program: Competitive component, Program: non-competitive component                                                                     |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Deepak Tanwar           |             | Program: Competitive component, Program: non-competitive component                                                                     |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Erica Feick             |             | **Outreach**, Code of Conduct                                                                                                          |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Frederick Boehm         |             | Outreach, Website, Education/Workshop, Program: Competitive component, Program: non-competitive component, Code of Conduct             |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Hector Corrada Bravo    |             |                                                                                                                                        |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Helena Crowell          |             | Website, Program: Competitive component, Program: non-competitive component, Code of Conduct                                           |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | John Hutchinson         |             | Outreach                                                                                                                               |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Lauren Hsu              |             | Education/Workshop, Program: Competitive component, Program: non-competitive component, Code of Conduct                                |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Laurent Gatto           |             |                                                                                                                                        |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Levi Waldron            |             | **Co-chair**, **Code of Conduct**, Education/Workshop, Program: Competitive component, Program: non-competitive component, Sponsorship |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Lorena Pantano          |             | **Website**, Education/Workshop, Program: non-competitive component, Code of Conduct                                                   |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Lori Shepherd           |             | Website, Education/Workshop, Program: Competitive component, Program: non-competitive component                                        |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Marcel Ramos            |             | Education/Workshop                                                                                                                     |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Martin Morgan           |             | Website, Program: non-competitive component, Sponsorship, Businness administration, Bioconductor organization                          |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Matthew McCall          |             | **Program: Competitive component**                                                                                                     |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Mikhail Dozmorov        |             | Website, Education/Workshop, Program: Competitive component, Program: non-competitive component                                        |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Nathan Sheffield        |             | Education/Workshop                                                                                                                     |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Oriol Senan             |             | Website, Education/Workshop                                                                                                            |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Peter Hickey            |             |                                                                                                                                        |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Qian Liu                |             | Program: Competitive component, Program: non-competitive component, Sponsorship                                                        |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Rafael Irizarry         |             | Program: non-competitive component, Sponsorship                                                                                        |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Ricardo de Matos Simoes |             | Education/Workshop, Program: Competitive component, Program: non-competitive component                                                 |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Sean Davis              |             | **Education/Workshop**                                                                                                                 |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Simina Boca             |             | Outreach, Website, Education/Workshop, Program: Competitive component, Program: non-competitive component                              |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Simone Bell             |             | **Program: non-competitive component**, Sponsorship                                                                                    |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Tom Carroll             |             |                                                                                                                                        |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Venu Thatikonda         |             | Outreach, Website                                                                                                                      |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Vincent Carey           |             |                                                                                                                                        |
+| <img src="images/240px-Missing_avatar.svg.png" width="250"/> | Zhezhen Wang            |             | Outreach, Website, Education/Workshop, Code of Conduct                                                                                 |
