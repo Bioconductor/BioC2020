@@ -1,4 +1,4 @@
-# BioC 2019: Where Software and Biology Connect
+# BioC 2020: Where Software and Biology Connect
 
 When: July 29 - 31, 2020<br />
 What: Developer Day, Main Conference, Symposium<br />
