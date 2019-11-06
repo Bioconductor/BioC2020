@@ -12,7 +12,7 @@ Please follow best practices by previewing changes locally.
 
 2. Clone the repository and switch to the `docs/` directory
 
-        cd BioC2019/docs
+        cd BioC2020/docs
 
 3. Install or update bundler to install the ruby pre-requisities.
 
@@ -32,5 +32,5 @@ Please follow best practices by previewing changes locally.
         
     and view the results at https://localhost:4000
 
-[1]: https://bioconductor.github.io/BioC2019
+[1]: https://bioconductor.github.io/BioC2020
 [2]: https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#requirements
