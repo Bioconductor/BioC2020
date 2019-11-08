@@ -21,6 +21,3 @@ layout: default
 - [Bioconductor 2007](https://bioconductor.org/help/course-materials/2007/BioC2007/)
 - [Bioconductor 2006](https://bioconductor.org/help/course-materials/2006/BioC2006/)
 - [Bioconductor 2005](https://bioconductor.org/help/course-materials/2005/BioC2005/)
-- [Bioconductor 2004](https://bioconductor.org/help/course-materials/2004/)
-- [Bioconductor 2003](https://bioconductor.org/help/course-materials/2003/)
-- [Bioconductor 2002](https://bioconductor.org/help/course-materials/2002/)
