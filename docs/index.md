@@ -16,8 +16,21 @@ layout: default
 {% include header.md %}
 
 BioC2020 highlights current developments within and beyond
-the [Bioconductor](https://www.bioconductor.org) project. It consists of:
-* [Developer Day](./schedule-developer-day) July 29:
+the [Bioconductor](https://www.bioconductor.org) project. 
+
+
+## Key dates
+
+Jan 9: Registration Opens
+Jan 15: Call for abstracts/applications for talks, early posters, scholarships, workshops
+March 3: Deadline for proposals for talks, workshops, early posters, and travel scholarships
+March 24: Notification of decision
+July 1: Deadline for late posters and for __Birds of a Feather__ meetings
+July 10: Notification of decision for late posters
+July 10: Last day of early registration
+July 29-31: Bioc2020 Meeting, Boston
+
+* [Community-Developer Day](./schedule-developer-day) July 29:
   provides developers and would-be developers with insights into
   Bioconductor project direction and software development best
   practices.
@@ -25,7 +38,7 @@ the [Bioconductor](https://www.bioconductor.org) project. It consists of:
   morning scientific talks and afternoon workshops provide insights
   and tools required for the analysis and comprehension of
   high-throughput genomic data.
-
+  
 
 ## Confirmed Speakers
 
