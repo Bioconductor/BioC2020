@@ -20,6 +20,8 @@ The conference venues are in the Longwood Medical/Fenway Park part of Boston and
 
 Information about hotel blocks and hotel options will be posted in early 2020. 
 
+Childcare options are [available](https://rebrand.ly/bioc2020childcare) 
+
 <!--
 ### Most affordable options
 

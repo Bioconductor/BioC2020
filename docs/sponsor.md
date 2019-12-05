@@ -12,18 +12,29 @@ Martin.Morgan@RoswellPark.org.
 Three levels of sponsorship are available. Sponsors of any level will
 be entitled to present a scientific poster during poster sessions.
 
-- Gold: $7,500 USD -- Up to 8 free registrations. Recognition in
-  promotional and scheduling material. Sponsored session (e.g.,
-  'Morning talks', 'Afternoon workshops').
+**Platinum $10,000 USD**
 
-- Silver: $5,000 USD -- Up to 5 free registrations. Recognition in
-  promotional and scheduling material. Sponsored food or social event
-  (e.g., 'breakfast', 'lunch', 'poster session', 'reception').
+- Poster session will be named after these donors.
+- Highest recognition, using your logo, in the online and print promotional and scheduling material.
+- Two invitations to attend the speaker dinner.
+- Up to 8 free registrations.
+- A thank-you tweet including your preferred Twitter handle.
+- A table during the poster session and social hours.
 
-- Bronze: $2,500 USD. Up to 2 free registrations. Recognition in
-  promotional and scheduling material.
+**Gold: $5,000 USD**
 
-Approximate conference demographics:
+- Top recognition, using your logo, in the online and print conference promotional and scheduling material.
+- Up to 5 free registrations.
+- A thank-you tweet including your preferred Twitter handle.
+- A table during the poster session and social hours.
+
+**Silver: $1,000 USD**
+
+- Sponsor names will be listed in the online and print promotional and scheduling material.
+- Academic discount on 2 registrations.
+- A thank-you tweet including your preferred Twitter handle.
+
+### Approximate conference demographics:
 
 - 150+ participants from the global bioinformatics community.
 
