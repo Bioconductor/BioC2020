@@ -1,16 +1,18 @@
 ---
 layout: default
-# speakers:
-#   - name: Rob Patro
-#     inst: Stony Brook University
-#     url: http://www.robpatro.com/redesign
-#     blurb: "I am an assistant professor in the Computer Science
-#       department at Stony Brook University. My main academic interests
-#       include computational biology and bioinformatics, machine
-#       learning, programming languages, computer graphics, scientific
-#       visualization and parallel computation. I also have recreational
-#       interests in math, physics, music, politics and video games."
-
+speakers:
+  - name: Rafael Irizarry
+    inst: Harvard University
+    url: https://rafalab.github.io
+    blurb: "Rafael Irizarry is Professor and Chair of the Department of Data Sciences at the Dana-Farber Cancer Institute and a Professor of Biostatistics at Harvard School of Public Health, and one of the original founders of the Bioconductor Project. Professor Irizarry’s work has focused on problems related to microarray, next-generation sequencing, and genomic data. Currently, he is interested in leveraging his knowledge in translational work, e.g. developing diagnostic tools and discovering biomarkers. During his career, he as co-authored papers on a variety of topics including musical sound signals, infectious diseases, circadian patterns in health, fetal health monitoring, and estimating the effects of Hurricane María in Puerto Rico."
+  - name: Caroline Uhler
+    inst: ETH Zurich, Switzerland
+    url: https://www.carolineuhler.com
+    blurb: "Caroline Uhler, formerly Associate Professor at MIT in Cambridge, USA, recently joined the ETH Zurich, Switzerland, as Professor of Machine Learning, Statistics and Genomics. Her research focuses on statistics, machine learning and computational biology. In particular, graphical models, causal inference, algebraic statistics and applications to genomics, for example linking the spatial organization of the DNA with gene regulation."
+  - name: Kylie Ariel Bemis
+    inst: Northeastern University
+    url: https://kuwisdelu.github.io
+    blurb: "Kylie Bemis is a faculty in the Khoury College of Computer Sciences at Northeastern University where she teaches data science and develops curriculum for the MS in Data Science program. Her research interests include machine learning and large-scale statistical computing for bioinformatics. She is active in outreach to the Native American and LGBTQ communities, an enrolled member of the Zuni tribe, and a writer of fiction and poetry."
 ---
 
 {% include header.md %}
