@@ -9,7 +9,7 @@ layout: default
 > Interested in sponsoring this conference? <br> 
 Please contact <Martin.Morgan@RoswellPark.org>
 
-Your sponsorship will help increase diversity and representation at Bioconductor 2020 by:
+**Your sponsorship will help increase diversity and representation at Bioconductor 2020** by:
 
 - Funding travel scholarships for students and postdoctoral fellows.
 - Providing caregiver awards to assist in childcare or eldercare costs (new in 2020).
