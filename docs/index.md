@@ -17,6 +17,14 @@ speakers:
     inst: Broad Institute
     url: https://www.insitubiology.org
     blurb: "Fei Chen is currently a Fellow at the Broad Institute. During the course of his doctoral studies in Biological Engineering at MIT, Fei co-invented expansion microscopy (ExM): A breakthrough technique that allows for super-resolution imaging of biological samples with conventional light microscopes. Chen's lab utilizes ExM as a platform for in situ transcriptomics and epigenomics, while continuing to pioneer novel molecular and microscopy tools to uniquely illuminate biological pathways and function."
+  - name: Aaron Lun
+    inst: Genentech
+    url: https://ltla.github.io/about
+    blurb: "Aaron Lun is a Scientist at Genentech, and previously was a research associate in John Marioni’s group at the CRUK Cambridge Institute and completed a PhD with Gordon Smyth at the Walter and Eliza Hall Institute for Medical Research in Melbourne. Aaron is a prolific contributor to the Bioconductor project, currently especially in the area of single-cell RNA-seq."
+  - name: X Shirley Liu
+    inst: Harvard University
+    url: https://liulab-dfci.github.io
+    blurb: "Shirley Liu is a Professor with the Department of Biostatistics and Computational Biology at the Dana-Farber Cancer Institute and Harvard School of Public Health. Her research focuses on algorithm development and integrative mining from big data generated on microarrays, massively parallel sequencing, and other high throughput techniques to model the specificity and function of transcription factors, chromatin regulators and lncRNAs in tumor development, progression, drug response and resistance."
 ---
 
 {% include header.md %}
