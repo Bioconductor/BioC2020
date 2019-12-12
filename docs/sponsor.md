@@ -6,24 +6,43 @@ layout: default
 
 ## Sponsor Opportunities
 
-Interested in sponsoring this conference? Please contact
-Martin.Morgan@RoswellPark.org.
+> Interested in sponsoring this conference? <br> 
+Please contact <Martin.Morgan@RoswellPark.org>
 
-Three levels of sponsorship are available. Sponsors of any level will
-be entitled to present a scientific poster during poster sessions.
+**Your sponsorship will help increase diversity and representation at Bioconductor 2020** by:
 
-- Gold: $7,500 USD -- Up to 8 free registrations. Recognition in
-  promotional and scheduling material. Sponsored session (e.g.,
-  'Morning talks', 'Afternoon workshops').
+- Funding travel scholarships for students and postdoctoral fellows.
+- Providing caregiver awards to assist in childcare or eldercare costs (new in 2020).
+- Offering student diversity scholarships to increase participation of underrepresented minorities (new in 2020).
+- Keeping registration costs affordable for academic participants.
 
-- Silver: $5,000 USD -- Up to 5 free registrations. Recognition in
-  promotional and scheduling material. Sponsored food or social event
-  (e.g., 'breakfast', 'lunch', 'poster session', 'reception').
+Three levels of sponsorship are available. Sponsors of all levels may present a poster highlighting the scientific interests of their organization in the poster sessions.
 
-- Bronze: $2,500 USD. Up to 2 free registrations. Recognition in
-  promotional and scheduling material.
+**Platinum: $10,000 USD**
 
-Approximate conference demographics:
+- Poster session will be named after these donors. 
+- Highest recognition, using your logo, in the online and print promotional and scheduling material. 
+- Two invitations to attend the speaker dinner.
+- Up to 8 free registrations.
+- A thank-you tweet including your preferred Twitter handle. 
+- A table during the poster session and social hours.
+
+**Gold: $5,000 USD**
+
+- Top recognition, using your logo, in the online and print conference promotional and scheduling material. 
+- Up to 5 free registrations. 
+- A thank-you tweet including your preferred Twitter handle. 
+- A table during the poster session and social hours.
+
+**Silver: $1,000 USD**
+
+- Sponsor names will be listed in the online and print promotional and scheduling material.
+- Academic discount on 2 registrations.
+- A thank-you tweet including your preferred Twitter handle.
+
+***
+
+## Approximate conference demographics
 
 - 150+ participants from the global bioinformatics community.
 

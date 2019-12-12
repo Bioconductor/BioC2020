@@ -8,8 +8,8 @@ layout: default
 
 Existing main conference registrations include:
 
-: - Admission to conference facilities for Developer Day and Main
-    Conference (June 24-26).
+: - Admission to conference facilities for Community Day and Main
+    Conference.
   - Continental breakfast, lunch, and light hors d'oeuvres, as well as
     morning and afternoon coffee breaks.
 

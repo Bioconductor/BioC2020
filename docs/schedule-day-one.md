@@ -4,7 +4,7 @@ layout: default
 
 {% include header.md %}
 
-# Day 1: Tuesday June 25
+# Day 1: Thursday, July 30
 
 <!--
 Logistics:

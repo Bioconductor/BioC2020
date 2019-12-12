@@ -4,7 +4,7 @@ layout: default
 
 {% include header.md %}
 
-# Developer Day: Monday June 24
+# Developer Day: Wednesday, July 29
 
 <!-- [DEVELOPER DAY NOTES][] -->
 

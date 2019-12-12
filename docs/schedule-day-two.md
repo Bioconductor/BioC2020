@@ -5,7 +5,7 @@ layout: default
 {% include header.md %}
 
 
-# Day 2: Wednesday June 26
+# Day 2: Friday July 31
  
 8:00 - 8:30 -- Breakfast -- TBA
 :  
