@@ -1,6 +1,10 @@
 ---
 layout: default
 speakers:
+  - name: Corrie Painter
+    inst: Count Me In and Broad Institute
+    url: https://www.broadinstitute.org/bios/corrie-painter
+    blurb: "Corrie Painter is the Associate Director of Count Me In and is a research scientist at the Broad Institute of MIT and Harvard.  A trained cancer researcher with a Ph.D. in biochemistry, she completed her postdoctoral work in cancer immunology, focused on melanoma. In 2010, Painter was diagnosed with angiosarcoma. She has combined her cancer advocacy and scientific background to engage with patients in order to build and carry out patient-partnered genomics studies. She is also the co-founder of Angiosarcoma Awareness Inc."
   - name: Rafael Irizarry
     inst: Harvard University
     url: https://rafalab.github.io
