@@ -57,6 +57,20 @@ The entrance to the Martin Center is located at 77 Avenue Louis Pasteur. The aud
 - **Subway** - The subway costs $2.25. The stops closest to Simmons University are the Green E line Museum of Fine Arts.
 - **Bus** - The bus costs $1.70. Route 8 and 47 run past the conference center. 
 
+## Accessibility
+
+**Simmons University**
+
+There is a mother’s room on the second floor of the Main Building (W206A). Simmons University has two elevators that accommodate all three floors of the Main building. The handicapped ramp to the Main Building is via the quad. 
+
+**Joseph B Martin Conference Center**
+
+There is a mother’s room in the building adjacent to the Martin Center and a short walk from the conference space. The Martin Center does have elevators to accommodate all three floors of the building. 
+
+Maps will be provided with locations of these services. 
+
+If you have a disability and require assistance, or would like more information, please note this on the registration form or by contacting Erica Feick at efeick@ds.dfci.harvard.edu or 617-632-5323. 
+
 ## Arriving by air
 
 The main airport that serves Boston is [Boston Logan International Airport](http://www.massport.com/logan-airport).
