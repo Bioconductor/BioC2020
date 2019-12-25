@@ -69,7 +69,7 @@ There is a mother’s room in the building adjacent to the Martin Center and a s
 
 Maps will be provided with locations of these services. 
 
-If you have a disability and require assistance, or would like more information, please note this on the registration form or by contacting Erica Feick at efeick@ds.dfci.harvard.edu or 617-632-5323. 
+If you have a disability and require assistance, or would like more information, please note this on the registration form or by contacting Erica Feick at 617-632-5323. 
 
 ## Arriving by air
 
