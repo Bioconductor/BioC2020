@@ -4,75 +4,57 @@ layout: default
 
 {% include header.md %}
 
-# Day 1: Thursday, July 30
+# Day 1: Wednesday, July 29
 
-<!--
-Logistics:
+<!-- [DEVELOPER DAY NOTES][] -->
 
-- Start your [course AMI][]
-- Join the [bioc-community slack][]
--->
-
-[course AMI]: https://courses.bioconductor.org
-[bioc-community slack]: https://bioc-community.herokuapp.com/
-
-8:00 - 8:45 -- Registration and breakfast -- Abby Lounge
+8:30 - 9:00 -- Registration and breakfast -- TBA
 : 
  
-8:45 - 9:00 -- [Welcoming remarks][welcome] -- Martin Morgan -- Caspary Auditorium
-: 
+9:00 - 9:30 -- Welcome -- TBA
+: [Orientation & project updates]
  
-9:00 - 9:30 -- Speaker 1 -- TBA
-: 
- 
-9:30 - 10:00 -- Speaker 2 -- TBA
-: 
- 
-10:00 - 10:30  -- Speaker 3 -- TBA
+9:30 - 10:00 -- Speaker 1 -- TBA
 :  
  
-10:30 - 11:00 -- Break -- TBA
-: 
+10:00 - 10:30 -- Lightning talks I -- TBA
+: Any Developer Day attendee can present a lightning talk (short 5
+  minute presentations); be prepared to volunteer on the day of the
+  conference.
  
-11:00 - 12:00 -- Contributed talks Session 1a - Theme 1 -- TBA
-: + Speaker 1
-  + Speaker 2
-  + Speaker 3
- 
-11:00 - 12:00 -- Contributed talks Session 1b - Theme 2 -- TBA
-: + Speaker 1
-  + Speaker 2
-  + Speaker 3
- 
-12:00 - 1:00 -- Lunch / Birds-of-a-feather -- TBA
+10:30 - 11:00 -- Break, newcomers / old-timers meet-up -- TBA
 :  
  
-1:00 - 1:50 --  [Workshop Session] 2a
-: + Workshop 1
-  + Workshop 2
-  + Workshop 3
+11:00 - 12:00 -- Birds-of-a-feather I / Workshops I
+: + Track 1
+  + Track 2
+  + Track 3
  
-2:00 - 2:50 --  [Workshop Session] 2b
-: + Workshop 1
-  + Workshop 2
-  + Workshop 3
+12:00 - 1:00 -- Lunch -- TBA
+:  
  
-2:50 - 3:10 -- Break -- TBA
-: 
+1:00 - 2:00 -- Birds-of-a-feather II / Workshops II
+: + Track 1
+  + Track 2
+  + Track 3
  
-3:10 - 4:00 --  [Workshop Session] 3a
-: + Workshop 1
-  + Workshop 2
-  + Workshop 3
+
+2:00 - 2:30 -- Lightning talks II -- [Sign up now]! -- TBA
+:  
  
-4:10 - 5:00 --  [Workshop Session] 3b
-: + Workshop 1
-  + Workshop 2
-  + Workshop 3
+2:30 - 3:00 -- Break -- TBA
+:  
  
-5:30 - 7:30 -- Contributed posters
-: + __Group-A posters__ -- TBA
-  + Lightning talks (concurrent with posters) -- TBA
-  + Poster dimensions up to 58 inches wide x 40 inches tall. Individual
-    poster allocations will be affixed to poster boards.
+3:00 - 3:30 -- Lightning talks III  -- [Sign up now]! -- TBA
+:  
+ 
+3:30 - 4:30 -- Birds-of-a-feather / Breakout sessions
+: + Session 1
+  + Session 2
+  + Sessio 3
+ 
+4:30 - 5:00 -- Panel discussion -- TBA
+: + Project directions and opportunities
+ 
+5:30 -- Outing -- TBA
  
