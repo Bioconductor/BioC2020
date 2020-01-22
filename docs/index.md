@@ -1,6 +1,11 @@
 ---
 layout: default
 speakers:
+  - name: Gabriela de Queiroz
+    inst: IBM
+    url: https://k-roz.com/
+    blurb: "Gabriela de Queiroz is a Sr. Engineering & Data Science Manager at IBM where she leads the CODAIT Machine Learning Team. She works in different open source projects and is actively involved with several organizations to foster an inclusive community.
+She is the founder of AI Inclusive, a global organization that is helping increase the representation and participation of gender minorities in Artificial Intelligence. She is also the founder of R-Ladies, a worldwide organization for promoting diversity in the R community with more than 180 chapters in 45+ countries. She has worked in several startups where she built teams, developed statistical models and employed a variety of techniques to derive insights and drive data-centric decisions."
   - name: Corrie Painter
     inst: Count Me In and Broad Institute
     url: https://www.broadinstitute.org/bios/corrie-painter
