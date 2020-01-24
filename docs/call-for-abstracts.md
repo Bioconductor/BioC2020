@@ -20,6 +20,18 @@ its visibility and impact. The submission deadline is TBA.
 | July 1   | Deadline for late posters and for Birds of a Feather meetings |
 | June 10  | Notification of decision for late posters |
 
+## Call for Travel Awards
+
+- [Bioc2020 travel award application](https://docs.google.com/forms/d/e/1FAIpQLSdr__Ox7kWpTV0lwjJ7skD617HcWFQmPrJqyMpVN27darvZQg/)
+
+## Call for Talks/Posters
+
+- [BioC 2020: Poster / Talk Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfMdX7Oo3C6gDMdNhgZ2x_vkCMVCcYbmjldUvcaILQv63Hjcw/closedform)
+
+## Call for Workshops
+
+- [BioC 2020: Workshop Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSce0VNXf4j27Ftu-wbI53ibTtLJxak4zLDCXyKZDdUU9QY7Rg/closedform)
+
 ## Call for late posters -- TBA
 
 ## Call for Birds of a Feather / Special Interest Groups -- TBA
