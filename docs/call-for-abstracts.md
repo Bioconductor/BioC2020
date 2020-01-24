@@ -36,6 +36,5 @@ its visibility and impact. The submission deadline is TBA.
 
 ## Call for Birds of a Feather / Special Interest Groups -- TBA
 
-[Bioconductor gateway]: https://f1000research.com/gateways/bioconductor/about-this-gateway
 
 
