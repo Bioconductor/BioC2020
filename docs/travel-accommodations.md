@@ -8,9 +8,9 @@ layout: default
 
 The conference will take place in two venues:
 
-- **Community Day** (July 29):  
+- **Day 1** (July 29):  
 Simmons University (300 The Fenway, Boston, MA)
-- **Main Conference** (July 30-31):  
+- **Day 2-3** (July 30-31):  
 Joseph B. Martin Conference Center at Harvard Medical School  
 (77 Avenue Louis Pasteur, Boston, MA 02115)
 
