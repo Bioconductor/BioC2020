@@ -28,7 +28,3 @@ more details.
 | Early Bird Industry Rate | $420.00     | Available soon            |
 | Regular Academic Rates   | $620.00     | Goes On Sale July 9, 2020 |
 | Regular Industry Rates   | $820.00     | Goes On Sale July 9, 2020 |
-
-## Register now!
-
-TBA.
