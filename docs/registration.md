@@ -17,7 +17,8 @@ Registrations include:
 ## Travel and accommodation
 
 Participants must arrange and pay for their own travel and
-accommodation.
+accommodation. See [Travel & Accommodation](travel-accommodations.html) for 
+more details.
 
 ## Fees
 
