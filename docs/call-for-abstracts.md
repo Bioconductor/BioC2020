@@ -22,15 +22,15 @@ its visibility and impact. The submission deadline is TBA.
 
 ## Call for Travel Awards
 
-- [Bioc2020 travel award application](https://docs.google.com/forms/d/e/1FAIpQLSdr__Ox7kWpTV0lwjJ7skD617HcWFQmPrJqyMpVN27darvZQg/)
+- [Bioc2020 travel award application](https://docs.google.com/forms/d/e/1FAIpQLSdr__Ox7kWpTV0lwjJ7skD617HcWFQmPrJqyMpVN27darvZQg/viewform)
 
 ## Call for Talks/Posters
 
-- [BioC 2020: Poster / Talk Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfMdX7Oo3C6gDMdNhgZ2x_vkCMVCcYbmjldUvcaILQv63Hjcw/closedform)
+- [BioC 2020: Poster / Talk Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfMdX7Oo3C6gDMdNhgZ2x_vkCMVCcYbmjldUvcaILQv63Hjcw/viewform)
 
 ## Call for Workshops
 
-- [BioC 2020: Workshop Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSce0VNXf4j27Ftu-wbI53ibTtLJxak4zLDCXyKZDdUU9QY7Rg/closedform)
+- [BioC 2020: Workshop Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSce0VNXf4j27Ftu-wbI53ibTtLJxak4zLDCXyKZDdUU9QY7Rg/viewform)
 
 ## Call for late posters -- TBA
 
