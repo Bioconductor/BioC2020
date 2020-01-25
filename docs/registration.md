@@ -6,7 +6,7 @@ layout: default
 
 ## Registration
 
-Registration is now open. Register at https://datasciences.eventsmart.com/events/bioc2020/
+Registration is now open. Register at [https://datasciences.eventsmart.com/events/bioc2020/](https://datasciences.eventsmart.com/events/bioc2020/)
 
 Registrations include:
 
