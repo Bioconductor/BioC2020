@@ -6,10 +6,11 @@ layout: default
 
 ## Registration
 
-Existing main conference registrations include:
+Registration is now open. Register at https://datasciences.eventsmart.com/events/bioc2020/
 
-: - Admission to conference facilities for Community Day and Main
-    Conference.
+Registrations include:
+
+: - Admission to conference facilities.
   - Continental breakfast, lunch, and light hors d'oeuvres, as well as
     morning and afternoon coffee breaks.
 
