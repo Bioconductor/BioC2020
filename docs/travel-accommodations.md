@@ -18,7 +18,7 @@ Joseph B. Martin Conference Center at Harvard Medical School
 
 The conference venues are in the Longwood Medical/Fenway Park part of Boston and are most easily accessible from the Fenway, Brookline and Back Bay neighborhoods.
 
-Information about hotel blocks and hotel options will be posted in early 2020. 
+[Information about nearby hotels.](assets/Hotels.near.DFCI.pdf)
 
 Childcare options are [available](https://rebrand.ly/bioc2020childcare) 
 
