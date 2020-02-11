@@ -41,6 +41,7 @@ She is the founder of AI Inclusive, a global organization that is helping increa
 BioC2020 highlights current developments within and beyond
 the [Bioconductor](https://www.bioconductor.org) project. 
 
+Conference flyer [#1](images/flyers/BioC2020Flyerlandscape.pdf), [#2](images/flyers/BioC2020FlyerPortrait.pdf)
 
 ## Key dates
 
