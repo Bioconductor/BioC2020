@@ -32,10 +32,6 @@ attending the meeting (such as overtime at childcare center, cost of a sitter or
 - If the number of requests for grants exceeds the funding, preference will be given to 
 applicants in earlier career stages.
 
-### Application misrepresentation
-
-- We reserve the right to deny funds to applicants who misrepresent their funding needs.
-
 ### Changes in circumstances
 
 - If the need changes between the time of application and the date of the meeting, please notify 
