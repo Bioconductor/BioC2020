@@ -16,6 +16,7 @@ its visibility and impact. The submission deadline is TBA.
 | Date     | What |
 | -------- | -------------------------------------- |
 | March 3  | Deadline for proposals for talks, workshops, early posters, and travel scholarships |
+| March 15 | Deadline for caregiver awards 
 | March 24 | Notification of decision |
 | July 1   | Deadline for late posters and for Birds of a Feather meetings |
 | June 10  | Notification of decision for late posters |
@@ -28,9 +29,13 @@ its visibility and impact. The submission deadline is TBA.
 
 - [BioC 2020: Workshop Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSce0VNXf4j27Ftu-wbI53ibTtLJxak4zLDCXyKZDdUU9QY7Rg/viewform)
 
+## Awards
+
+* [travel scholarships](https://docs.google.com/forms/d/e/1FAIpQLSdr__Ox7kWpTV0lwjJ7skD617HcWFQmPrJqyMpVN27darvZQg/viewform)
+* [caregiver Awards](./caregiver-awards.md)
+
 ## Call for late posters -- TBA
 
 ## Call for Birds of a Feather / Special Interest Groups -- TBA
-
 
 
