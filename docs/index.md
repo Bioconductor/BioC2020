@@ -46,8 +46,9 @@ Conference flyer [#1](images/flyers/BioC2020Flyerlandscape.pdf), [#2](images/fly
 ## Key dates
 
 - Jan 9: Registration Opens
-- Jan 15: [Call for abstracts/applications for talks, early posters, scholarships, workshops](call-for-abstracts.html)
+- Jan 15: [Call for abstracts/applications for talks, early posters, travel and caregiver awards, workshops](call-for-abstracts.html)
 - March 3: Deadline for proposals for talks, workshops, early posters, and travel scholarships
+- March 15: Deadline for caregiver awards
 - March 24: Notification of decision
 - July 1: Deadline for late posters and for __Birds of a Feather__ meetings
 - July 10: Notification of decision for late posters
