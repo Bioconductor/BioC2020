@@ -53,7 +53,7 @@ Conference flyer [#1](images/flyers/BioC2020Flyerlandscape.pdf), [#2](images/fly
 - July 10: Notification of decision for late posters
 - July 10: Last day of early registration
 - July 29-31: Bioc2020 Meeting, Boston
-  - [Community-Developer Day](./schedule-developer-day) July 29:
+  - [Community-Developer Day](./schedule-day-one) July 29:
     provides developers and would-be developers with insights into
     Bioconductor project direction and software development best
     practices.
