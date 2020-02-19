@@ -31,8 +31,8 @@ its visibility and impact. The submission deadline is TBA.
 
 ## Awards
 
-* [travel scholarships](https://docs.google.com/forms/d/e/1FAIpQLSdr__Ox7kWpTV0lwjJ7skD617HcWFQmPrJqyMpVN27darvZQg/viewform)
-* [caregiver Awards](./caregiver-awards.md)
+* [Travel scholarships](https://docs.google.com/forms/d/e/1FAIpQLSdr__Ox7kWpTV0lwjJ7skD617HcWFQmPrJqyMpVN27darvZQg/viewform)
+* [Caregiver awards](./caregiver-awards.md)
 
 ## Call for late posters -- TBA
 
