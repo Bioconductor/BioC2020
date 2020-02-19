@@ -24,7 +24,7 @@ We do not tolerate harassment, intimidation, or bullying of conference participa
 workshops, poster sessions, social activities, 
 or online. Sexual language and imagery is not appropriate for any conference venue, including talks. 
 Conference participants violating these rules may be sanctioned or expelled from the conference with no refund, 
-at the discretion of the conference organizers. Our anti-harassment policy can be found at: http://bioc2019.bioconductor.org/code_of_conduct
+at the discretion of the conference organizers. Our anti-harassment policy can be found at: https://bioc2020.bioconductor.org/code_of_conduct
 
 ## Examples of unacceptable harassment, intimidation, and bullying behavior
 
@@ -80,13 +80,11 @@ When taking a personal report, our staff will ensure you are safe and cannot be 
 
 Our team will be happy to help you contact hotel/venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance. 
 
-    Conference organizers: workshop@bioconductor.org
-    Anonymous complaints: tinyurl.com/bioccomplaint
-    Local law enforcement: 911
-    Local sexual assault hot line: 212-227-3000
-    [Phone number for conference security or organizers] 
-    [Phone number for hotel/venue security] 
-    [Local emergency and non-emergency medical (e.g., urgent care, day clinic)] 
+    Code of Conduct violation reports: code-of-conduct@bioconductor.org
+    Anonymous Code of Conduct violation reports: https://tinyurl.com/bioccomplaint
+    Local law enforcement emergency number: 911
+    [Simmons University public safety](https://www.simmons.edu/public-safety) (non-emergency): 617-521-1112
+    [Harvard Medical School public safety](https://campusplanning.hms.harvard.edu/campus-services/security/contact-security-campus-safety) (non-emergency): 617-432-1379
 
 | Photo | Name |
 |---|---|---|
