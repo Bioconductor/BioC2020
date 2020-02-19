@@ -16,6 +16,7 @@ its visibility and impact. The submission deadline is TBA.
 | Date     | What |
 | -------- | -------------------------------------- |
 | March 3  | Deadline for proposals for talks, workshops, early posters, and travel scholarships |
+| March 15 | Deadline for caregiver awards 
 | March 24 | Notification of decision |
 | July 1   | Deadline for late posters and for Birds of a Feather meetings |
 | June 10  | Notification of decision for late posters |
@@ -27,3 +28,7 @@ its visibility and impact. The submission deadline is TBA.
 [Bioconductor gateway]: https://f1000research.com/gateways/bioconductor/about-this-gateway
 
 
+## Awards
+
+* [travel scholarships](https://docs.google.com/forms/d/e/1FAIpQLSdr__Ox7kWpTV0lwjJ7skD617HcWFQmPrJqyMpVN27darvZQg/viewform)
+* [caregiver Awards](./caregiver-awards.md)

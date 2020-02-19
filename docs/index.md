@@ -36,9 +36,9 @@ the [Bioconductor](https://www.bioconductor.org) project.
 ## Key dates
 
 - Jan 9: Registration Opens
-- Jan 15: Call for abstracts/applications for talks, early posters, scholarships, workshops
-- March 3: Deadline for proposals for talks, workshops, early posters, and [travel scholarships](https://docs.google.com/forms/d/e/1FAIpQLSdr__Ox7kWpTV0lwjJ7skD617HcWFQmPrJqyMpVN27darvZQg/viewform)
-- March 15: Deadline for [caregiver Awards](caregiver-awards.md)
+- Jan 15: [Call for abstracts/applications for talks, early posters, scholarships, awards, workshops](call-for-abstracts.html)
+- March 3: Deadline for proposals for talks, workshops, early posters, and travel scholarships
+- March 14: Deadline for caregiver awards
 - March 24: Notification of decision
 - July 1: Deadline for late posters and for __Birds of a Feather__ meetings
 - July 10: Notification of decision for late posters

@@ -37,7 +37,7 @@ applicants in earlier career stages.
 - If the need changes between the time of application and the date of the meeting, please notify 
 Bioconductor to explain. You will be notified if your need is still eligible for funding.
 
-Key dates for scholarships:
+### Key dates for scholarships:
 
 - Thursday March 15, 2020: Caregiver Award Submission opens.
 - Thursday May 17, 2020: Caregiver Award Submission deadline.
