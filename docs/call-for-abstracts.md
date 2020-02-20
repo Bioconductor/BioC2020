@@ -33,7 +33,7 @@ its visibility and impact. The submission deadline is TBA.
 
 ## Awards
 
-* [BioC 2020: Travel scholarships](./scholarships.md)
+* [BioC 2020: Travel awards](./scholarships.md)
 * [BioC 2020: Caregiver awards](./caregiver-awards.md)
 
 ## Call for late posters -- TBA
