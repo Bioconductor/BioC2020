@@ -15,9 +15,11 @@ its visibility and impact. The submission deadline is TBA.
 
 | Date     | What |
 | -------- | -------------------------------------- |
-| March 3  | Deadline for proposals for talks, workshops, early posters, and travel scholarships |
-| March 15 | Deadline for caregiver awards 
-| March 24 | Notification of decision |
+| March 3  | Deadline for proposals for talks, workshops, early posters |
+| March 15 | Open for travel and caregiver awards
+| March 24 | Notification of decision for talks, workshops, early posters|
+| May 17   | Deadline for travel and caregiver awards
+| May 31   | Notification of decision for travel and caregiver awards
 | July 1   | Deadline for late posters and for Birds of a Feather meetings |
 | June 10  | Notification of decision for late posters |
 
@@ -31,7 +33,7 @@ its visibility and impact. The submission deadline is TBA.
 
 ## Awards
 
-* [Travel scholarships](https://docs.google.com/forms/d/e/1FAIpQLSdr__Ox7kWpTV0lwjJ7skD617HcWFQmPrJqyMpVN27darvZQg/viewform)
+* [Travel scholarships](./scholarships.md)
 * [Caregiver awards](./caregiver-awards.md)
 
 ## Call for late posters -- TBA

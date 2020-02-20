@@ -18,4 +18,4 @@ Key dates for scholarships:
 - Thursday May 17, 2020: Abstract Submission deadline.
 - Thursday May 31, 2020: Notification of talk, poster acceptance.
 
-[Poster / Talk Submission Form]: TBA.
+[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSdr__Ox7kWpTV0lwjJ7skD617HcWFQmPrJqyMpVN27darvZQg/viewform)
