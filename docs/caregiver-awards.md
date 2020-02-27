@@ -9,7 +9,7 @@ layout: default
 Small awards up to $500 _per family_ are available to _Bioconductor_ attendees
 who are either bringing young children to the meeting or who will be 
 incurring additional expenses for childcare or other caregiving responsibilities
-(such as elder care) during the meeting.
+(such as elder care) during the meeting. Fill the [Caregiver Award Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSd2DPyob3vkZFbgtalIqzmZxg58P27qyP8iiivHxgrNTE5Puw/viewform) to apply.
 
 ### Allowable expenses
 
@@ -43,4 +43,3 @@ Bioconductor to explain. You will be notified if your need is still eligible for
 - Thursday May 17, 2020: Caregiver Award Submission deadline.
 - Thursday May 31, 2020: Notification of acceptance.
 
-[Caregiver Award Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSd2DPyob3vkZFbgtalIqzmZxg58P27qyP8iiivHxgrNTE5Puw/viewform)
