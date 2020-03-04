@@ -39,7 +39,6 @@ Bioconductor to explain. You will be notified if your need is still eligible for
 
 ### Key dates for scholarships:
 
-- Thursday March 15, 2020: Caregiver Award Submission opens.
 - Thursday May 17, 2020: Caregiver Award Submission deadline.
 - Thursday May 31, 2020: Notification of acceptance.
 

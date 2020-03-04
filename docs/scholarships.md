@@ -16,8 +16,7 @@ You need to submit for [poster/talk](https://docs.google.com/forms/d/e/1FAIpQLSf
 
 Key dates for scholarships:
 
-- Thursday March 15, 2020: Abstract Submissions opens.
-- Thursday May 17, 2020: Abstract Submission deadline.
-- Thursday May 31, 2020: Notification of talk, poster acceptance.
+- Thursday March 3, 2020: Abstract Submission deadline.
+- Thursday March 24, 2020: Notification of talk, poster acceptance.
 
 [Travel Award Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSdr__Ox7kWpTV0lwjJ7skD617HcWFQmPrJqyMpVN27darvZQg/viewform)
