@@ -38,6 +38,8 @@ She is the founder of AI Inclusive, a global organization that is helping increa
 
 {% include header.md %}
 
+**COVID-19 update**: (March 31, 2020) COVID-19 has introduced uncertainty into the planning for BioC2020. While the conference is still planned as proposed, the organizing committee is exploring the contingency plan of an online-only conference.  We expect to make a decision on conference format in early May.
+
 BioC2020 highlights current developments within and beyond
 the [Bioconductor](https://www.bioconductor.org) project. 
 
