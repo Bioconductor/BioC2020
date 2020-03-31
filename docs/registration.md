@@ -28,3 +28,14 @@ more details.
 | Early Bird Industry Rate | $420.00     | Available soon            |
 | Regular Academic Rates   | $620.00     | Goes On Sale July 9, 2020 |
 | Regular Industry Rates   | $820.00     | Goes On Sale July 9, 2020 |
+
+## Cancellation Policy
+
+Bioconductor is	a non-profit organization, and conferences are
+designed only to break even every year. As a result we are generally
+unable to offer individual refunds.
+
+In light of uncertainty caused by COVID-19, there is the possibility
+of a change in format or date of the BioC2020 conference. If this
+happens, anyone already registered will be offered the option of a
+refund.
