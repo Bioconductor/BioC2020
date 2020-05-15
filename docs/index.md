@@ -1,11 +1,6 @@
 ---
 layout: default
 speakers:
-  - name: Gabriela de Queiroz
-    inst: IBM
-    url: https://k-roz.com/
-    blurb: "Gabriela de Queiroz is a Sr. Engineering & Data Science Manager at IBM where she leads the CODAIT Machine Learning Team. She works in different open source projects and is actively involved with several organizations to foster an inclusive community.
-She is the founder of AI Inclusive, a global organization that is helping increase the representation and participation of gender minorities in Artificial Intelligence. She is also the founder of R-Ladies, a worldwide organization for promoting diversity in the R community with more than 180 chapters in 45+ countries. She has worked in several startups where she built teams, developed statistical models and employed a variety of techniques to derive insights and drive data-centric decisions."
   - name: Corrie Painter
     inst: Count Me In and Broad Institute
     url: https://www.broadinstitute.org/bios/corrie-painter
@@ -45,6 +40,8 @@ the [Bioconductor](https://www.bioconductor.org) project.
 
 Conference flyer [#1](images/flyers/BioC2020Flyerlandscape.pdf), [#2](images/flyers/BioC2020FlyerPortrait.pdf)
 
+**New!** Nominate individuals providing outstanding contributions to the Bioconductor project and community to the [Bioconductor Awards 2020](https://tinyurl.com/biocawards2020). Deadline for nominations: June 15. 
+
 ## Key dates
 
 - Jan 9: Registration Opens
@@ -54,10 +51,11 @@ Conference flyer [#1](images/flyers/BioC2020Flyerlandscape.pdf), [#2](images/fly
 - March 24: Notification of decision for talks, workshops, early posters
 - May 17: Deadline for travel and caregiver awards
 - May 31: Notification of decision for travel and caregiver awards
+- June 15: Deadline for nominations to the [Bioconductor Awards 2020](https://tinyurl.com/biocawards2020)
 - July 1: Deadline for late posters and for __Birds of a Feather__ meetings
 - July 10: Notification of decision for late posters
 - July 10: Last day of early registration
-- July 29-31: Bioc2020 Meeting, Boston
+- July 29-31: BioC2020 Meeting, Boston
   - [Community-Developer Day](./schedule-day-one) July 29:
     provides developers and would-be developers with insights into
     Bioconductor project direction and software development best
