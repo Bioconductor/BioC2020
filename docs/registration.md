@@ -6,36 +6,17 @@ layout: default
 
 ## Registration
 
-Registration is now open. Register at [https://datasciences.eventsmart.com/events/bioc2020/](https://datasciences.eventsmart.com/events/bioc2020/)
+Registration is now open. Register at [our event page](https://datasciences.eventsmart.com/events/bioc2020/).
+The registration fee includes access to the virtual platform for conference, including live streamed talks, Q&A sessions, workshops and poster sessions. This fee helps us cover the cost of the platform and other associated costs for the conference. 
 
-Registrations include:
-
-: - Admission to conference facilities.
-  - Continental breakfast, lunch, and light hors d'oeuvres, as well as
-    morning and afternoon coffee breaks.
-
-## Travel and accommodation
-
-Participants must arrange and pay for their own travel and
-accommodation. See [Travel & Accommodation](travel-accommodations.html) for 
-more details.
+If you registered at the original conference rate, you should have received an email about your options. If you did not receive an email, please reach out the Erica Feick.
 
 ## Fees
 
 | Rate                     | Price (USD) | Link                      |
 |--------------------------|-------------|---------------------------|
-| Early Bird Academic Rate | $320.00     | Available soon            |
-| Early Bird Industry Rate | $420.00     | Available soon            |
-| Regular Academic Rates   | $620.00     | Goes On Sale July 9, 2020 |
-| Regular Industry Rates   | $820.00     | Goes On Sale July 9, 2020 |
+| Flat rate fee for virtual conference | $50.00     | Open now            |
 
 ## Cancellation Policy
 
-Bioconductor is	a non-profit organization, and conferences are
-designed only to break even every year. As a result we are generally
-unable to offer individual refunds.
-
-In light of uncertainty caused by COVID-19, there is the possibility
-of a change in format or date of the BioC2020 conference. If this
-happens, anyone already registered will be offered the option of a
-refund.
+Bioconductor is a non-profit organization, and conferences are designed only to break even every year. As a result we are generally unable to offer individual refunds.
