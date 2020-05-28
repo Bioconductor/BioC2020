@@ -6,7 +6,7 @@ layout: default
 
 ## Registration
 
-Registration is now open. Register at https://datasciences.eventsmart.com/events/bioc2020/.
+Registration is now open. Register at [our event page](https://datasciences.eventsmart.com/events/bioc2020/).
 The registration fee includes access to the virtual platform for conference, including live streamed talks, Q&A sessions, workshops and poster sessions. This fee helps us cover the cost of the platform and other associated costs for the conference. 
 
 If you registered at the original conference rate, you should have received an email about your options. If you did not receive an email, please reach out the Erica Feick.
