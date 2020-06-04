@@ -7,7 +7,7 @@ layout: default
 
 # Day 3: Wednesday July 29
 We have moved to a virtual format, The conference dates will be July 27-31. Schedule will be posted shortly.
-<--
+<--!
  
 8:00 - 8:30 -- Breakfast -- TBA
 :  
