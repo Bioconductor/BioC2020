@@ -11,6 +11,8 @@ contribute articles on Bioconductor workflows or packages to the [Bioconductor
 gateway](https://f1000research.com/gateways/bioconductor/about-this-gateway). This is a great opportunity to get credit for your work and increase
 its visibility and impact. The submission deadline is TBA.
 
+NOTE: Deadline for scholarships (travel and caregiver) awards is extended to June 30. 
+
 ## Key Dates
 
 | Date     | What |
@@ -18,10 +20,9 @@ its visibility and impact. The submission deadline is TBA.
 | March 3  | Deadline for proposals for talks, workshops, early posters |
 | March 15 | Open for travel and caregiver awards
 | March 24 | Notification of decision for talks, workshops, early posters|
-| May 17   | Deadline for travel and caregiver awards
-| May 31   | Notification of decision for travel and caregiver awards
+| May 31   | Notification of decision for early travel and caregiver awards
 | June 10  | Notification of decision for late posters |
-| June 30  | Deadline for travel and caregiver awards |
+| June 30  | Extended deadline for scholarships ([travel](./scholarships.md) and [caregiver](./caregiver-awards.md)) awards |
 | July 1   | Deadline for late posters and for Birds of a Feather meetings |
 | July 6   | Notification of decision for travel and caregiver awards |
 

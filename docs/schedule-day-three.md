@@ -5,7 +5,10 @@ layout: default
 {% include header.md %}
 
 
-# Day 3: Friday July 31
+# Day 3: Wednesday July 29
+We have moved to a virtual format, The conference dates will be July 27-31.  Schedule will be posted shortly.
+
+<!--
  
 8:00 - 8:30 -- Breakfast -- TBA
 :  
@@ -62,3 +65,4 @@ layout: default
 : + Workshop 1
   + Workshop 2
   + Workshop 3
+-->

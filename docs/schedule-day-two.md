@@ -4,7 +4,7 @@ layout: default
 
 {% include header.md %}
 
-# Day 2: Thursday, July 30
+# Day 2: Tuesday, July 30
 
 <!--
 Logistics:
@@ -13,6 +13,9 @@ Logistics:
 - Join the [bioc-community slack][]
 -->
 
+We have moved to a virtual format, The conference dates will be July 27-31.  Schedule will be posted shortly.
+
+<!--
 [course AMI]: https://courses.bioconductor.org
 [bioc-community slack]: https://bioc-community.herokuapp.com/
 
@@ -76,3 +79,4 @@ Logistics:
   + Poster dimensions up to 58 inches wide x 40 inches tall. Individual
     poster allocations will be affixed to poster boards.
  
+-->

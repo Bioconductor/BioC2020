@@ -4,10 +4,13 @@ layout: default
 
 {% include header.md %}
 
-# Day 1: Wednesday, July 29
+# Day 1: Monday, July 27
 
 <!-- [DEVELOPER DAY NOTES][] -->
 
+We have moved to a virtual format, The conference dates will be July 27-31.  Schedule will be posted shortly.
+
+<!--
 8:30 - 9:00 -- Registration and breakfast -- TBA
 : 
  
@@ -58,3 +61,4 @@ layout: default
  
 5:30 -- Outing -- TBA
  
+-->
