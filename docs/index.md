@@ -44,7 +44,7 @@ the [Bioconductor](https://www.bioconductor.org) project. The structure of the c
 * virtual poster session
 
 NEW: [Registration for virtual Bioc2020 is now open](https://datasciences.eventsmart.com/events/bioc2020/)
-A new flat-rate fee of $50.00 USD will give attendees access to the virtual platform for the conference and access to live streamed talks and Q&As. The new registration deadline is July 20, 2020.  [Register](https://datasciences.eventsmart.com/events/bioc2020/)
+A new flat-rate fee of $50.00 USD will give attendees access to the virtual platform for the conference and access to live streamed talks and Q&As. The new [registration] (https://datasciences.eventsmart.com/events/bioc2020/) deadline is July 20, 2020.
 
 The organizing committee is working on a conference schedule that will address the many time zones that people will be participating from. More information will be forthcoming.  The meeting will occur over 5 days, July 27-31.
 
