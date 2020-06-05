@@ -4,14 +4,7 @@ layout: default
 
 {% include header.md %}
 
-# Day 2: Tuesday, July 30
-
-<!--
-Logistics:
-
-- Start your [course AMI][]
-- Join the [bioc-community slack][]
--->
+# Day 2: Tuesday, July 28
 
 We have moved to a virtual format, The conference dates will be July 27-31.  Schedule will be posted shortly.
 
