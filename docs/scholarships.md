@@ -6,18 +6,14 @@ layout: default
 
 ## Scholarships
 
-Scholarships are available and targeted toward _Bioconductor_ package
-developers and contributors. Scholarships cover registration, travel
-(up to $500 per person), and accommodation. All scholarship recipients
-must present a talk or poster. To apply for a scholarship, complete
+Scholarships cover registration. All scholarship recipients
+are encouraged to present a talk, poster, organize a “watch party”, or generally to participate actively in the conference.
+To apply for a scholarship, complete
 the following form: [Travel Award Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSdr__Ox7kWpTV0lwjJ7skD617HcWFQmPrJqyMpVN27darvZQg/viewform).
-You need to submit for [poster/talk](https://docs.google.com/forms/d/e/1FAIpQLSfMdX7Oo3C6gDMdNhgZ2x_vkCMVCcYbmjldUvcaILQv63Hjcw/viewform) presentation.
-
 
 Key dates for scholarships:
 
-- Thursday March 15, 2020: Abstract Submissions opens.
-- Thursday May 17, 2020: Abstract Submission deadline.
-- Thursday May 31, 2020: Notification of talk, poster acceptance.
+- June 30: Extended deadline for scholarships (travel and caregiver) awards
+- July 6: Notification of decision for travel and caregiver awards
 
 [Travel Award Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSdr__Ox7kWpTV0lwjJ7skD617HcWFQmPrJqyMpVN27darvZQg/viewform)
