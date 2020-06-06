@@ -41,33 +41,3 @@ Join the _Bioconductor_  [#bioc2020](https://community-bioc.slack.com/archives/C
 | [Efficient, Scalable, and Reproducible Enrichment Workflows](https://montilab.github.io/hypeR-workshop/) |  [GitHub](https://github.com/montilab/hypeR-workshop) | [Docker](https://hub.docker.com/repository/docker/montilab/hypeR-workshop) |
 
 Workshop packages were created using the [BuildABiocWorkshop2020](https://github.com/seandavi/BuildABiocWorkshop2020) template
-
-
-
-<!--
-| 100 Level Workshops | 
-|---------------------|
-| [](https://XXX.github.io/YYY/) | <!--  ![](https://github.com/XXX/YYY/workflows/.github/workflows/basic_checks.yaml/badge.svg) | --> [GitHub](https://github.com/XXX/YYY) | [Docker](https://hub.docker.com/repository/docker/XXX/YYY) |
--->
-
-
-
-<!--
-- [Main Conference](#main-conference)
-- [Developer Day](#developer-day)
-
-### Main Conference
-
-Workshops will be announced in April based on submissions to the ([call for workshops, talks, posters, and travel awards][call]). See the [BioC2018 workshops][bioc2018workshops] as a guide. Bioconductor will offer the "100-level" courses every year:
-
-- _100: R and [Bioconductor][] for everyone: an introduction_
-- _101: Introduction to [Bioconductor][] annotation resources_. 
-- _102: Solving common bioinformatic challenges using [GenomicRanges][]_.
-- _103: Public Data Resources and [Bioconductor][]_.
-
-
-[call]: ./travel-accommodations
-[bioc2018workshops]: https://bioconductor.github.io/BiocWorkshops/
-[Bioconductor]: https://bioconductor.org/
-[GenomicRanges]: https://bioconductor.org/packages/GenomicRanges
--->
