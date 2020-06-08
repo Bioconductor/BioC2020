@@ -28,6 +28,7 @@ Join the _Bioconductor_  [#bioc2020](https://community-bioc.slack.com/archives/C
 | [Hitchhikers Guide to PCA; Demystifying dimensionality reduction in R/Bioconductor](https://aedin.github.io/Frontiers_Supplement/) | ![](https://github.com/aedin/Frontiers_Supplement/workflows/.github/workflows/basic_checks.yaml/badge.svg) | [GitHub](https://github.com/aedin/Frontiers_Supplement) | [Docker](https://hub.docker.com/repository/docker/aedin/Frontiers_Supplement) |
 | [Epidemiology for Bioinformaticians](https://cmirzayi.github.io/epiforbioworkshop/) | ![](https://github.com/cmirzayi/epiforbioworkshop/workflows/.github/workflows/basic_checks.yaml/badge.svg) | [GitHub](https://github.com/cmirzayi/epiforbioworkshop) | [Docker](https://hub.docker.com/repository/docker/cmirzayi/epiforbioworkshop) |
 | [Biomarker discovery from high throughput screening datasets](https://bhklab.github.io/bioc2020workshop/) | ![](https://github.com/bhklab/bioc2020workshop/workflows/.github/workflows/basic_checks.yaml/badge.svg) | [GitHub](https://github.com/bhklab/bioc2020workshop) | [Docker](https://hub.docker.com/repository/docker/bhklab/bioc2020workshop) |
+| [Importing alevin scRNA-seq counts into R/Bioconductor](https://mikelove.github.io/alevin2bioc/) | ![](https://github.com/mikelove/alevin2bioc/workflows/.github/workflows/basic_checks.yaml/badge.svg) | [GitHub](https://github.com/mikelove/alevin2bioc) | [Docker](https://hub.docker.com/repository/docker/mikelove/alevin2bioc) |
 
 
 | 500 Level Workshops | 
