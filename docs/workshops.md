@@ -14,7 +14,7 @@ Join the _Bioconductor_  [#bioc2020](https://community-bioc.slack.com/archives/C
 | [A Tidy Transcriptomics introduction to RNA-Seq analyses](https://stemangiola.github.io/bioc_2020_tidytranscriptomics/) |  [GitHub](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) | [Docker](https://hub.docker.com/repository/docker/stemangiola/bioc_2020_tidytranscriptomics) |
 | [MultiAssayExperiment and curatedTCGAData Bioconductor 2020 Workshop](https://waldronlab.github.io/MultiAssayWorkshop/) |  [GitHub](https://github.com/waldronlab/MultiAssayWorkshop) | [Docker](https://hub.docker.com/repository/docker/mr148/multiassayworkshop) |
 | [Public data resources and Bioconductor](https://waldronlab.github.io/PublicDataResources/) | [GitHub](https://github.com/waldronlab/PublicDataResources) | [Docker](https://hub.docker.com/repository/docker/waldronlab/PublicDataResources) |
-| [Annotation of inter-sample epigenetic variation with COCOA](https://databio.github.io/cocoa_workshop_bioc2020/) |  [GitHub](https://github.com/databio/cocoa_workshop_bioc2020) | [Docker](https://hub.docker.com/repository/docker/databio/cocoa_workshop_bioc2020) |
+| [Coordinate Covariation Analysis](https://databio.github.io/cocoa_workshop_bioc2020/) |  [GitHub](https://github.com/databio/cocoa_workshop_bioc2020) | [Docker](https://hub.docker.com/repository/docker/databio/cocoa_workshop_bioc2020) |
 | [Human RNA-seq data from recount2 and related packages](https://LieberInstitute.github.io/recountWorkshop2020/) |  [GitHub](https://github.com/LieberInstitute/recountWorkshop2020/) | [Docker](https://hub.docker.com/repository/docker/LieberInstitute/recountWorkshop2020) |
 
 | 200 Level Workshops | 
