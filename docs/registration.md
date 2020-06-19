@@ -7,9 +7,9 @@ layout: default
 ## Registration
 
 Registration to virtual Bioc2020 is now open. Register at [our event page](https://datasciences.eventsmart.com/events/bioc2020/).
-The registration fee includes access to the virtual platform for conference, including live streamed talks, Q&A sessions, workshops and poster sessions. This fee helps us cover the cost of the platform and other associated costs for the conference. 
+The registration fee includes access to the virtual platform for conference, including live streamed talks, Q&A sessions, workshops and network opportunities. This fee helps us cover the cost of the platform and other associated costs for the conference. 
 
-If you registered at the original conference rate, you should have received an email about your options. If you did not receive an email, please reach out the Erica Feick.
+If you are currently experiencing financial hardship or reduced funding due to the COVID-19 pandemic, please apply for a [BioC2020 Travel Award](./scholarships.md) for a waiver on the registration fee. 
 
 ## Fees
 
