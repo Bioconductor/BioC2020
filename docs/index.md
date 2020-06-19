@@ -50,7 +50,9 @@ The organizing committee is working on a conference schedule that will address t
 
 Conference flyer [#1](images/flyers/BioC2020Flyerlandscape_lg.pdf), [#2](images/flyers/BioC2020FlyerPortrait.pdf)
 
+<!--
 **New!** Nominate individuals providing outstanding contributions to the Bioconductor project and community to the [Bioconductor Awards 2020](https://tinyurl.com/biocawards2020). Deadline for nominations: June 15. 
+-->
 
 ## Key dates for virtual Bioc2020
 <!--

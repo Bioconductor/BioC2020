@@ -80,19 +80,17 @@ When taking a personal report, our staff will ensure you are safe and cannot be 
 
 Our team will be happy to help you contact hotel/venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance. 
 
-    Code of Conduct violation reports: code-of-conduct@bioconductor.org
-    Anonymous Code of Conduct violation reports: https://tinyurl.com/bioccomplaint
-    Local law enforcement emergency number: 911
-    [Simmons University public safety](https://www.simmons.edu/public-safety) (non-emergency): 617-521-1112
-    [Harvard Medical School public safety](https://campusplanning.hms.harvard.edu/campus-services/security/contact-security-campus-safety) (non-emergency): 617-432-1379
+### Code of Conduct violation reports 
+* Email: [code-of-conduct@bioconductor.org]( mailto:workshop@bioconductor.org?subject=BioC2019%20code-of-conduct)
+* Anonymous Code of Conduct violation reports: https://tinyurl.com/bioccomplaint
+* Local law enforcement emergency number: 911
 
-| Photo | Name |
-|---|---|---|
-| <img src="images/Aedin.jpg" width="200" /> | Aedin Culhane <[aedin@jimmy.harvard.edu][2]> |
-| <img src="images/Levi.png" width="200" /> | Levi Waldron  <[lwaldron.research@gmail.com][4]> |
-| <img src="images/Laurent.jpg" width="200" /> | Laurent Gatto <[laurent.gatto@uclouvain.be][6]> |
+### Code of Conduct Committee
+| Photo | Name 
+|------|------|
+| <img src="images/Aedin.jpg" width="200" /> | [Aedin Culhane](mailto:aedin@jimmy.harvard.edu?subject=BioC2019%20code-of-conduct) |
+| <img src="images/LeviWaldron.jpg" width="200" /> | [Levi Waldron](mailto:lwaldron.research@gmail.com?subject=BioC2019%20Code-of-conduct) |
+| <img src="images/Laurent.jpg" width="200" /> | [Laurent Gatto](mailto:laurent.gatto@uclouvain.be?subject=BioC2019%20Code-of-conduct) |
 
-[0]: mailto:workshop@bioconductor.org?subject=BioC2019%20code-of-conduct
-[2]: mailto:aedin@jimmy.harvard.edu?subject=BioC2019%20code-of-conduct
-[4]: mailto:lwaldron.research@gmail.com?subject=BioC2019%20Code-of-conduct
-[6]: mailto:laurent.gatto@uclouvain.be?subject=BioC2019%20Code-of-conduct
+ 
+
