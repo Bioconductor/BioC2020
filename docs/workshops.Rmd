@@ -1,0 +1,121 @@
+---
+layout: default
+output:
+  github_document:
+    includes:
+      in_header: _includes/header.md
+always_allow_html: true
+---
+
+## Workshops
+
+Join the _Bioconductor_  [#bioc2020](https://community-bioc.slack.com/archives/CLAEUFVAA)
+and [#bioc2019-workshops](https://community-bioc.slack.com/archives/CJDMYKG2U)
+channels for up-to-date information
+
+*NOTE*. If your workshop is missing, please include a `DESCRIPTION` file in the
+workshop and the relevant `URL` and `DockerImage` fields.
+
+```{r,results="hide",echo=FALSE,message=FALSE,warning=FALSE}
+.github <- "https://raw.githubusercontent.com"
+.dock_hub <- "https://hub.docker.com/repository/docker/"
+
+make_repo_table <- function(repos) {
+    descs <- file.path(.github, repos, "master/DESCRIPTION")
+    repo_url <- file.path("https://github.com", repos)
+    dcfs <- lapply(descs, function(desc_url) {
+        tryCatch({
+            read.dcf(url(desc_url))
+            }, error = function(e) conditionMessage(e)
+        )
+    })
+    valid <- vapply(dcfs, function(x) is.matrix(x), logical(1L))
+    noDESC <- repos[!valid]
+    msg <- paste0("Missing `DESCRIPTION`: ", paste0(noDESC, collapse = ", "))
+    noDESC <- if (!length(noDESC)) "" else msg
+    dcfs <- dcfs[valid]
+    annote <- dplyr::bind_rows(
+        lapply(lapply(dcfs, as.data.frame), tibble)
+    )
+    updf <- annote[, c("Title", "URL", "DockerImage")]
+    docks <- lapply(strsplit(updf[["DockerImage"]], ":"), `[`, 1L)
+    workshop <- paste0("[", updf[["Title"]], "]", "(", updf[["URL"]], ")")
+    github <- paste0("[![GH](images/GitHub-Mark-32px.png)]", "(", repo_url[valid], ")")
+    docker <- paste0("[![Docker](images/docker_icon.png)]", "(", .dock_hub, docks, ")")
+    list(
+        tibble(workshop, github, docker),
+        noDESC
+    )
+}
+```
+
+```{r,echo=FALSE,message=FALSE,warning=FALSE}
+library(knitr)
+library(kableExtra)
+library(tibble)
+l100 <- c(
+    "jmacdon/Bioc2020Anno",
+    "stemangiola/bioc_2020_tidytranscriptomics",
+    "waldronlab/MultiAssayWorkshop",
+    "waldronlab/PublicDataResources",
+    "databio/cocoa_workshop_bioc2020",
+    "LieberInstitute/recountWorkshop2020"
+)
+rtab <- make_repo_table(l100)
+knitr::kable(rtab[[1]], align = "l", escape = FALSE,
+    caption = "100 Level Workshops", col.names = NULL, format = "html") %>%
+    kableExtra::kable_styling(
+        bootstrap_options = c("hover", "striped", "responsive"),
+        full_width = FALSE
+    ) %>% kableExtra::footnote(symbol = rtab[[2]])
+```
+
+```{r,echo=FALSE,message=FALSE,warning=FALSE}
+l200 <- c(
+    "haibol2016/ATACseqQCWorkshop",
+    "iSEE/iSEEWorkshop2020",
+    "waldronlab/enrichOmics",
+    "waldronlab/CNVWorkshop",
+    "radio1988/oneStopRNAseqWorkshop",
+    "hukai916/IntegratedChIPseqWorkshop",
+    "aedin/Frontiers_Supplement",
+    "cmirzayi/epiforbioworkshop",
+    "bhklab/bioc2020workshop"
+)
+rtab <- make_repo_table(l200)
+knitr::kable(rtab[[1]], align = "l", escape = FALSE,
+    caption = "200 Level Workshops", col.names = NULL) %>%
+    kableExtra::kable_styling(
+        bootstrap_options = c("hover", "striped", "responsive"),
+        full_width = FALSE
+    ) %>% kableExtra::footnote(symbol = rtab[[2]])
+```
+
+```{r,echo=FALSE,message=FALSE,warning=FALSE}
+l500 <- c(
+    "Kayla-Morrell/CreateAPackage",
+    "Liubuntu/Bioc2020RCWL",
+    "PeteHaitch/BioC2020_DelayedArray_workshop",
+    "waldronlab/AnVILWorkshop",
+    "mdozmorov/HiCcompareWorkshop",
+    "kstreet13/bioc2020trajectories",
+    "montilab/hypeR-workshop"
+)
+rtab <- make_repo_table(l500)
+knitr::kable(rtab[[1]], align = "l", escape = FALSE,
+    caption = "500 Level Workshops", col.names = NULL) %>%
+    kableExtra::kable_styling(
+        bootstrap_options = c("hover", "striped", "responsive"),
+        full_width = FALSE
+    )
+```
+
+Workshop packages were created using the
+[BuildABiocWorkshop2020](https://github.com/seandavi/BuildABiocWorkshop2020)
+template.
+
+*Note*. GitHub pages and Docker links are obtained from the `DESCRIPTION` fields:
+
+* `URL:`
+* `DockerImage:`
+
