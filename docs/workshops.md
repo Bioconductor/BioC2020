@@ -399,7 +399,7 @@ the Analysis of Large Datasets](NA)
 
 <td style="text-align:left;">
 
-[![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/PeteHaitch/BioC2020_DelayedArray_workshop)
+[![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/petehaitch/bioc2020_delayedarray_workshop)
 
 </td>
 
