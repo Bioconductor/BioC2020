@@ -80,7 +80,9 @@ l200 <- c(
     "hukai916/IntegratedChIPseqWorkshop",
     "aedin/Frontiers_Supplement",
     "cmirzayi/epiforbioworkshop",
-    "bhklab/bioc2020workshop"
+    "bhklab/bioc2020workshop",
+    "broadinstitute/BioC2020Workshop_AMARETTO-Hub",
+    "mikelove/alevin2bioc"
 )
 rtab <- make_repo_table(l200)
 knitr::kable(rtab[[1]], align = "l", escape = FALSE,
