@@ -1,10 +1,5 @@
 ---
-layout: default
-output:
-  github_document:
-    includes:
-      in_header: _includes/header.md
-always_allow_html: true
+output: github_document
 ---
 
 ## Workshops
@@ -15,6 +10,27 @@ channels for up-to-date information
 
 *NOTE*. If your workshop is missing, please include a `DESCRIPTION` file in the
 workshop and the relevant `URL` and `DockerImage` fields.
+
+```{r,eval=FALSE,echo=FALSE}
+# run this to create the workshops.md file
+rmarkdown::render("workshops.Rmd",
+    rmarkdown::md_document(
+        variant="gfm", preserve_yaml = FALSE
+    )
+)
+writeLines(c(
+"---
+layout: default
+---
+
+{% include header.md %}
+",
+
+    readLines("workshops.md")
+    ),
+    con = file("workshops.md")
+)
+```
 
 ```{r,results="hide",echo=FALSE,message=FALSE,warning=FALSE}
 .github <- "https://raw.githubusercontent.com"
@@ -49,6 +65,8 @@ make_repo_table <- function(repos) {
 }
 ```
 
+### 100 Level Workshops
+
 ```{r,echo=FALSE,message=FALSE,warning=FALSE}
 library(knitr)
 library(kableExtra)
@@ -63,12 +81,14 @@ l100 <- c(
 )
 rtab <- make_repo_table(l100)
 knitr::kable(rtab[[1]], align = "l", escape = FALSE,
-    caption = "100 Level Workshops", col.names = NULL, format = "html") %>%
+    format = "markdown", col.names = NULL) %>%
     kableExtra::kable_styling(
         bootstrap_options = c("hover", "striped", "responsive"),
         full_width = FALSE
     ) %>% kableExtra::footnote(symbol = rtab[[2]])
 ```
+
+### 200 Level Workshops
 
 ```{r,echo=FALSE,message=FALSE,warning=FALSE}
 l200 <- c(
@@ -86,12 +106,14 @@ l200 <- c(
 )
 rtab <- make_repo_table(l200)
 knitr::kable(rtab[[1]], align = "l", escape = FALSE,
-    caption = "200 Level Workshops", col.names = NULL) %>%
+    format = "markdown", col.names = NULL) %>%
     kableExtra::kable_styling(
         bootstrap_options = c("hover", "striped", "responsive"),
         full_width = FALSE
     ) %>% kableExtra::footnote(symbol = rtab[[2]])
 ```
+
+### 500 Level Workshops
 
 ```{r,echo=FALSE,message=FALSE,warning=FALSE}
 l500 <- c(
@@ -105,7 +127,7 @@ l500 <- c(
 )
 rtab <- make_repo_table(l500)
 knitr::kable(rtab[[1]], align = "l", escape = FALSE,
-    caption = "500 Level Workshops", col.names = NULL) %>%
+    format = "markdown", col.names = NULL) %>%
     kableExtra::kable_styling(
         bootstrap_options = c("hover", "striped", "responsive"),
         full_width = FALSE
