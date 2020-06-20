@@ -50,7 +50,9 @@ The organizing committee is working on a conference schedule that will address t
 
 Conference flyer [#1](images/flyers/BioC2020Flyerlandscape_lg.pdf), [#2](images/flyers/BioC2020FlyerPortrait.pdf)
 
+<!--
 **New!** Nominate individuals providing outstanding contributions to the Bioconductor project and community to the [Bioconductor Awards 2020](https://tinyurl.com/biocawards2020). Deadline for nominations: June 15. 
+-->
 
 ## Key dates for virtual Bioc2020
 <!--
@@ -73,13 +75,14 @@ The call for abstracts/applications for talks, early posters is closed.
 Call for scholarships remains open and will waive the virtual registration fee.  
 
 
-- June 1:  [Registration](https://datasciences.eventsmart.com/events/bioc2020/) Opens for virtual Bioc2020
+- June 1:  [Registration](https://datasciences.eventsmart.com/events/bioc2020/) opens for virtual Bioc2020
 - June 15: Deadline for nominations to the [Bioconductor Awards 2020](https://tinyurl.com/biocawards2020)
 - June 30: Deadline for [scholarships](./scholarships.md) and [caregiver](./caregiver-awards.md) awards
-- July 1:  Deadline for late posters and for __Birds of a Feather__ meetings
-- July 6:  Notification of decision for scholarships and caregiver awards
-- July 10: Notification of decision for late posters
-- July 10: Last day of early registration
+- July 1:  Notification of decision for travel awards begins
+- July 7:  Deadline for late posters and for __Birds of a Feather__ meetings
+- July 13: Notification of decision for late posters
+- July 16: Deadline for workshop modifications
+- July 20: Last day of early registration
 - July 27-31: BioC2020 Meeting
 
 ## Confirmed Speakers
