@@ -12,7 +12,8 @@ Join the *Bioconductor*
 channels for up-to-date information
 
 *NOTE*. If your workshop is missing, please include a `DESCRIPTION` file
-in the workshop and the relevant `URL` and `DockerImage` fields.
+in the workshop and the relevant `URL` and `DockerImage`
+fields.
 
 ### 100 Level Workshops
 
@@ -26,15 +27,15 @@ in the workshop and the relevant `URL` and `DockerImage` fields.
 
 ### 200 Level Workshops
 
-|                                                                                                                                                            |                                                                                       |                                                                                                               |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------ |
-| [ATAC-seq data quality control using the ATACseqQC package](NA)                                                                                            | [![GH](images/GitHub-Mark-32px.png)](https://github.com/haibol2016/ATACseqQCWorkshop) | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/NA)                              |
-| [Interactive Visualization of SummarizedExperiment Objects with iSEE](https://github.com/iSEE/iSEEWorkshop2020,%20https://iSEE.github.io/iSEEWorkshop2020) | [![GH](images/GitHub-Mark-32px.png)](https://github.com/iSEE/iSEEWorkshop2020)        | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/iseedevelopers/iseeworkshop2020) |
-| [Functional enrichment analysis of high-throughput omics data](https://waldronlab.github.io/enrichOmics/)                                                  | [![GH](images/GitHub-Mark-32px.png)](https://github.com/waldronlab/enrichOmics)       | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/ludwigg/enrichomics)             |
-| [Copy number variation analysis with Bioconductor](https://waldronlab.github.io/CNVWorkshop)                                                               | [![GH](images/GitHub-Mark-32px.png)](https://github.com/waldronlab/CNVWorkshop)       | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/ludwigg/cnvworkshop)             |
-| [A workshop for concepts of epidemiology](NA)                                                                                                              | [![GH](images/GitHub-Mark-32px.png)](https://github.com/cmirzayi/epiforbioworkshop)   | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/NA)                              |
-| [A workshop on discovering biomarkers from high through put response screens](https://bhklab.github.io/BiocWorkshop2020)                                   | [![GH](images/GitHub-Mark-32px.png)](https://github.com/bhklab/bioc2020workshop)      | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/bhklab/GxBioc2020Workshop)       |
-| [Tutorial for importing alevin scRNA-seq quantifications](https://mikelove.github.io/alevin2bioc/)                                                         | [![GH](images/GitHub-Mark-32px.png)](https://github.com/mikelove/alevin2bioc)         | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/mikelove/alevin2bioc)            |
+|                                                                                                                          |                                                                                       |                                                                                                               |
+| :----------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------ |
+| [ATAC-seq data quality control using the ATACseqQC package](NA)                                                          | [![GH](images/GitHub-Mark-32px.png)](https://github.com/haibol2016/ATACseqQCWorkshop) | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/NA)                              |
+| [Interactive Visualization of SummarizedExperiment Objects with iSEE](https://iSEE.github.io/iSEEWorkshop2020)           | [![GH](images/GitHub-Mark-32px.png)](https://github.com/iSEE/iSEEWorkshop2020)        | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/iseedevelopers/iseeworkshop2020) |
+| [Functional enrichment analysis of high-throughput omics data](https://waldronlab.github.io/enrichOmics/)                | [![GH](images/GitHub-Mark-32px.png)](https://github.com/waldronlab/enrichOmics)       | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/ludwigg/enrichomics)             |
+| [Copy number variation analysis with Bioconductor](https://waldronlab.github.io/CNVWorkshop)                             | [![GH](images/GitHub-Mark-32px.png)](https://github.com/waldronlab/CNVWorkshop)       | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/ludwigg/cnvworkshop)             |
+| [A workshop for concepts of epidemiology](NA)                                                                            | [![GH](images/GitHub-Mark-32px.png)](https://github.com/cmirzayi/epiforbioworkshop)   | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/NA)                              |
+| [A workshop on discovering biomarkers from high through put response screens](https://bhklab.github.io/BiocWorkshop2020) | [![GH](images/GitHub-Mark-32px.png)](https://github.com/bhklab/bioc2020workshop)      | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/bhklab/GxBioc2020Workshop)       |
+| [Tutorial for importing alevin scRNA-seq quantifications](https://mikelove.github.io/alevin2bioc/)                       | [![GH](images/GitHub-Mark-32px.png)](https://github.com/mikelove/alevin2bioc)         | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/mikelove/alevin2bioc)            |
 
 ### 500 Level Workshops
 
