@@ -8,9 +8,6 @@ Join the _Bioconductor_  [#bioc2020](https://community-bioc.slack.com/archives/C
 and [#bioc2019-workshops](https://community-bioc.slack.com/archives/CJDMYKG2U)
 channels for up-to-date information
 
-*NOTE*. If your workshop is missing, please include a `DESCRIPTION` file in the
-workshop and the relevant `URL` and `DockerImage` fields.
-
 ```{r,eval=FALSE,echo=FALSE}
 # run this to create the workshops.md file
 rmarkdown::render("workshops.Rmd",
@@ -80,12 +77,15 @@ l100 <- c(
     "LieberInstitute/recountWorkshop2020"
 )
 rtab <- make_repo_table(l100)
-knitr::kable(rtab[[1]], align = "l", escape = FALSE,
-    format = "markdown", col.names = NULL) %>%
-    kableExtra::kable_styling(
-        bootstrap_options = c("hover", "striped", "responsive"),
-        full_width = FALSE
-    ) %>% kableExtra::footnote(symbol = rtab[[2]])
+knitr::kable(rtab[[1]], format = "markdown",
+    col.names = c("Workshop", "Source", "Docker"))
+```
+
+```{r, echo=FALSE,results="asis"}
+if (length(rtab[[2]]))
+    cat(
+        paste0("<sup>", rtab[[2]],  "</sup>", sep = "\n")
+    )
 ```
 
 ### 200 Level Workshops
@@ -106,11 +106,14 @@ l200 <- c(
 )
 rtab <- make_repo_table(l200)
 knitr::kable(rtab[[1]], align = "l", escape = FALSE,
-    format = "markdown", col.names = NULL) %>%
-    kableExtra::kable_styling(
-        bootstrap_options = c("hover", "striped", "responsive"),
-        full_width = FALSE
-    ) %>% kableExtra::footnote(symbol = rtab[[2]])
+    format = "markdown", col.names = c("Workshop", "Source", "Docker"))
+```
+
+```{r, echo=FALSE,results="asis"}
+if (length(rtab[[2]]))
+    cat(
+        paste0("<sup>", rtab[[2]],  "</sup>", sep = "\n")
+    )
 ```
 
 ### 500 Level Workshops
@@ -127,10 +130,13 @@ l500 <- c(
 )
 rtab <- make_repo_table(l500)
 knitr::kable(rtab[[1]], align = "l", escape = FALSE,
-    format = "markdown", col.names = NULL) %>%
-    kableExtra::kable_styling(
-        bootstrap_options = c("hover", "striped", "responsive"),
-        full_width = FALSE
+    format = "markdown", col.names = c("Workshop", "Source", "Docker"))
+```
+
+```{r, echo=FALSE,results="asis"}
+if (length(rtab[[2]]))
+    cat(
+        paste0("<sup>", rtab[[2]],  "</sup>", sep = "\n")
     )
 ```
 
@@ -138,8 +144,9 @@ Workshop packages were created using the
 [BuildABiocWorkshop2020](https://github.com/seandavi/BuildABiocWorkshop2020)
 template.
 
-*Note*. GitHub pages and Docker links are obtained from the `DESCRIPTION` fields:
+*NOTE*. Missing workshops should include a valid `DESCRIPTION` file with the
+following fields: 
 
-* `URL:`
-* `DockerImage:`
-
+* `URL:` - the GitHub pages URL (`https://username.github.io/repository`)
+* `DockerImage:` - the Docker repository slug in lowercase with (optional) tag
+(`username/repository:tag`)
