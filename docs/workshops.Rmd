@@ -5,7 +5,7 @@ output: github_document
 ## Workshops
 
 Join the _Bioconductor_  [#bioc2020](https://community-bioc.slack.com/archives/CLAEUFVAA)
-and [#bioc2019-workshops](https://community-bioc.slack.com/archives/CJDMYKG2U)
+and [#bioc2020-workshops](https://community-bioc.slack.com/archives/C015QR5FCGN)
 channels for up-to-date information
 
 ```{r,eval=FALSE,echo=FALSE}
@@ -145,7 +145,7 @@ Workshop packages were created using the
 template.
 
 *NOTE*. Missing workshops should include a valid `DESCRIPTION` file with the
-following fields: 
+following fields:
 
 * `URL:` - the GitHub pages URL (`https://username.github.io/repository`)
 * `DockerImage:` - the Docker repository slug in lowercase with (optional) tag
