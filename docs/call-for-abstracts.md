@@ -20,6 +20,7 @@ gateway](https://f1000research.com/gateways/bioconductor/about-this-gateway). Th
 | July 16 | Notification of decision for posters |
 | July 16 | Deadline for [workshop](./workshops.md) modifications |
 | July 16 | Deadline for [scholarships](./scholarships.md) and [caregiver](./caregiver-awards.md) awards |
+| July 20 | Notification of decision for awards |
 
 ## Call for Posters
 

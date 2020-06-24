@@ -76,6 +76,7 @@ Conference flyer [#1](images/flyers/BioC2020Flyerlandscape_lg.pdf), [#2](images/
 - July 16: Notification of decision for posters
 - July 16: Deadline for [workshop](./workshops.md) modifications
 - July 16: Deadline for [scholarship/caregiver awards](./call-for-abstracts.md)
+- July 20: Notification of decision for awards
 - July 20: Last day of early [registration](https://datasciences.eventsmart.com/events/bioc2020/)
 - July 27-31: BioC2020 Virtual Meeting
 
