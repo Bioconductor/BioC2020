@@ -60,7 +60,7 @@ schedule:
     speaker: James W. MacDonald
     title: "100: Introduction to Bioconductor Annotation Resources"
     url: https://github.com/jmacdon/Bioc2020Anno
-  - time: 4:00-4:55pm
+  - time: 5:00-5:55pm
     type: Workshop
     speaker: Stefano Mangiola
     title: "100: A Tidy Transcriptomics introduction to RNA-Seq analyses"
@@ -69,7 +69,7 @@ schedule:
 
 {% include header.md %}
 
-# Day 1: Monday, July 27
+# Day 1: Monday, July 27, 2020
 
 All time is US Eastern Time. All sessions include Q&A time.
 
