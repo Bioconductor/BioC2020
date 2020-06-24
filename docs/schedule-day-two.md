@@ -1,75 +1,77 @@
 ---
 layout: default
+schedule:
+  - time: 9:00-9:55am
+    type: Workshop
+    speaker: Ludwig Geistlinger
+    title: "200: Functional enrichment analysis of high-throughput omics data"
+    url: https://github.com/waldronlab/enrichOmics
+  - time: 10:00-10:55am
+    type: Workshop
+    speaker: Haibo Liu
+    title: "200: Best practices for ATAC-seq QC and data analysis"
+    url: https://github.com/haibol2016/ATACseqQCWorkshop
+  - time: 11:00-11:55am
+    type: Workshop
+    speaker: Ludwig Geistlinger
+    title: "200: Copy number variation analysis with Bioconductor"
+    url: https://github.com/waldronlab/CNVWorkshop
+  - time: 12:00-12:55pm
+    type: Break
+    speaker: Lunch, Posters, PBoF
+    title: 
+    url: 
+  - time: 1:00-1:55pm
+    type: Workshop
+    speaker: Charlotte Soneson
+    title: "200: iSEE: Interactive visualization of SummarizedExperiment objects"
+    url: https://github.com/iSEE/iSEEWorkshop2020
+  - time: 2:00-2:55pm
+    type: Keynote
+    speaker: Kylie Bemis
+    title: 
+    url: 
+  - time: 3:00-3:15pm
+    type: Talk
+    speaker: Daniel Bunis
+    title: "dittoSeq: A universal user friendly single-cell and bulk RNA sequencing visualization toolkit"
+    url: 
+  - time: 3:15-3:30pm
+    type: Talk
+    speaker: Koen Van den Berge
+    title: Interpretation of single-cell RNA-seq trajectories using differential expression and differential progression analysis
+    url: 
+  - time: 3:30-3:45pm
+    type: Talk
+    speaker: F. William Townes
+    title: Dimension reduction for massive single-cell datasets
+    url: 
+  - time: 3:45-4:00pm
+    type: Talk
+    speaker: Lauren Hsu
+    title: "corral: A simple and fast approach for dimensionality reduction and data alignment in single-cell data"
+    url: 
+  - time: 4:00-4:55pm
+    type: Workshop
+    speaker: Rui Li
+    title: "200: Comprehensive RNAseq Analysis with oneStopRNAseq"
+    url: https://github.com/radio1988/oneStopRNAseqWorkshop
+  - time: 5:00-5:55pm
+    type: Workshop
+    speaker: Kai Hu
+    title: "200: Integrated ChIP-seq Data Analysis Workshop"
+    url: https://github.com/hukai916/IntegratedChIPseqWorkshop
 ---
 
 {% include header.md %}
 
-# Day 2: Tuesday, July 28
+# Day 2: Tuesday, July 28, 2020
 
-We have moved to a virtual format, The conference dates will be July 27-31.  Schedule will be posted shortly.
+All time is US Eastern Time. All sessions include Q&A time.
 
-<!--
-[course AMI]: https://courses.bioconductor.org
-[bioc-community slack]: https://bioc-community.herokuapp.com/
+{% for s in page.schedule %}
 
-8:00 - 8:45 -- Registration and breakfast -- Abby Lounge
-: 
- 
-8:45 - 9:00 -- [Welcoming remarks][welcome] -- Martin Morgan -- Caspary Auditorium
-: 
- 
-9:00 - 9:30 -- Speaker 1 -- TBA
-: 
- 
-9:30 - 10:00 -- Speaker 2 -- TBA
-: 
- 
-10:00 - 10:30  -- Speaker 3 -- TBA
-:  
- 
-10:30 - 11:00 -- Break -- TBA
-: 
- 
-11:00 - 12:00 -- Contributed talks Session 1a - Theme 1 -- TBA
-: + Speaker 1
-  + Speaker 2
-  + Speaker 3
- 
-11:00 - 12:00 -- Contributed talks Session 1b - Theme 2 -- TBA
-: + Speaker 1
-  + Speaker 2
-  + Speaker 3
- 
-12:00 - 1:00 -- Lunch / Birds-of-a-feather -- TBA
-:  
- 
-1:00 - 1:50 --  [Workshop Session] 2a
-: + Workshop 1
-  + Workshop 2
-  + Workshop 3
- 
-2:00 - 2:50 --  [Workshop Session] 2b
-: + Workshop 1
-  + Workshop 2
-  + Workshop 3
- 
-2:50 - 3:10 -- Break -- TBA
-: 
- 
-3:10 - 4:00 --  [Workshop Session] 3a
-: + Workshop 1
-  + Workshop 2
-  + Workshop 3
- 
-4:10 - 5:00 --  [Workshop Session] 3b
-: + Workshop 1
-  + Workshop 2
-  + Workshop 3
- 
-5:30 - 7:30 -- Contributed posters
-: + __Group-A posters__ -- TBA
-  + Lightning talks (concurrent with posters) -- TBA
-  + Poster dimensions up to 58 inches wide x 40 inches tall. Individual
-    poster allocations will be affixed to poster boards.
- 
--->
+{{ s.time }} | {% if s.type == "Keynote" %} **{{ s.type }}** {% else %} {{ s.type }} {% endif %}, {{ s.speaker }}, {% if s.url contains "http" %} [{{ s.title }}]({{ s.url }}) {% else %} {{ s.title }} {% endif %}
+
+{% endfor %}
+
