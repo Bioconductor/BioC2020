@@ -74,7 +74,8 @@ l100 <- c(
     "waldronlab/MultiAssayWorkshop",
     "waldronlab/PublicDataResources",
     "databio/cocoa_workshop_bioc2020",
-    "LieberInstitute/recountWorkshop2020"
+    "LieberInstitute/recountWorkshop2020",
+    "waldronlab/AnVILWorkshop"
 )
 rtab <- make_repo_table(l100)
 knitr::kable(rtab[[1]], format = "markdown",
@@ -123,7 +124,6 @@ l500 <- c(
     "Kayla-Morrell/CreateAPackage",
     "Liubuntu/Bioc2020RCWL",
     "PeteHaitch/BioC2020_DelayedArray_workshop",
-    "waldronlab/AnVILWorkshop",
     "mdozmorov/HiCcompareWorkshop",
     "kstreet13/bioc2020trajectories",
     "montilab/hypeR-workshop"
