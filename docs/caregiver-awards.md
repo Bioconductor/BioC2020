@@ -12,10 +12,9 @@ who will be incurring additional expenses for childcare or other caregiving resp
 
 ### Allowable expenses
 
-- Child care expenses
+- Additional child care expenses, including overtime at childcare center, virtual childcare, etc.
 - Additional care expenses at home incurred because the primary caregiver was
-attending the meeting (such as overtime at childcare center, cost of a sitter or nurse, etc.)
-- Expenses incurred in bringing a caregiver and/or dependent
+attending the meeting (e.g., cost of a sitter or nurse)
 
 **Receipts will be required to reimbursement**
 
