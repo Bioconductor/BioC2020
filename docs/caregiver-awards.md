@@ -14,7 +14,7 @@ who will be incurring additional expenses for childcare or other caregiving resp
 
 - Child care expenses
 - Additional care expenses at home incurred because the primary caregiver was
-attending the meeting (such as overtime at childcare center, cost of a sitter or nurse ec)
+attending the meeting (such as overtime at childcare center, cost of a sitter or nurse, etc.)
 - Expenses incurred in bringing a caregiver and/or dependent
 
 **Receipts will be required to reimbursement**
