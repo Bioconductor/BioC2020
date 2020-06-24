@@ -7,13 +7,12 @@ layout: default
 ## Caregiver awards
 
 Small awards up to $500 _per family_ are available to _Bioconductor_ attendees
-who are either bringing young children to the meeting or who will be 
-incurring additional expenses for childcare or other caregiving responsibilities
+who will be incurring additional expenses for childcare or other caregiving responsibilities
 (such as elder care) during the meeting. Fill the [Caregiver Award Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSd2DPyob3vkZFbgtalIqzmZxg58P27qyP8iiivHxgrNTE5Puw/viewform) to apply.
 
 ### Allowable expenses
 
-- Child care expenses in Boston
+- Child care expenses
 - Additional care expenses at home incurred because the primary caregiver was
 attending the meeting (such as overtime at childcare center, cost of a sitter or nurse ec)
 - Expenses incurred in bringing a caregiver and/or dependent
@@ -22,10 +21,8 @@ attending the meeting (such as overtime at childcare center, cost of a sitter or
 
 ### Unallowable expenses
 
-- Regular care expenses, such as regular childcare
-- Travel or other expenses related to the attendee's participation in the meeting
+- Regular childcare expenses
 - Food
-- Tickets to local attractions
 
 ### Selection of awards
 
@@ -39,7 +36,6 @@ Bioconductor to explain. You will be notified if your need is still eligible for
 
 ### Key dates for scholarships:
 
-- Thursday March 15, 2020: Caregiver Award Submission opens.
-- Thursday May 17, 2020: Caregiver Award Submission deadline.
-- Thursday May 31, 2020: Notification of acceptance.
+- July 16, 2020: Caregiver Award Submission deadline.
+- July 20, 2020: Notification of decision.
 
