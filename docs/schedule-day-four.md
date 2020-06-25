@@ -31,26 +31,31 @@ schedule:
     speaker: X Shirley Liu
     title: 
     url: 
-  - time: 3:00-3:15pm
+  - time: 3:00-3:10pm
     type: Talk
     speaker: Anthony Mammoliti
     title: "ORCESTRA: a platform for orchestrating and sharing high-throughput pharmacogenomic analyses"
     url: 
-  - time: 3:15-3:30pm
+  - time: 3:10-3:20pm
     type: Talk
     speaker: Shraddha Pai
     title: "netDx: Building interpretable patient classifiers by multi-omic data integration and patient similarity networks"
     url: 
-  - time: 3:30-3:45pm
+  - time: 3:20-3:30pm
     type: Talk
     speaker: Gabriel Odom
     title: "A Global Test for Integrative Pathway Analysis of Multi-omics Data"
     url: 
-  - time: 3:45-4:00pm
+  - time: 3:30-3:40pm
     type: Talk
     speaker: Ruth Schmidt
     title: "Visualization of multi-omics data in microbiome research"
     url: 
+  - time: 3:40-3:55pm
+    type: "Q&A session"
+    speaker: 
+    title: 
+    url:
   - time: 4:00-4:55pm
     type: Workshop
     speaker: Anthony Federico

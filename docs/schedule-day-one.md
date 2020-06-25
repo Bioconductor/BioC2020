@@ -11,24 +11,29 @@ schedule:
     speaker: Rafael Irizarry
     title:
     url:
-  - time: 10:00-10:15am
+  - time: 10:00-10:10am
     type: Talk
     speaker: Yi Wang
     title: Co-expression analysis is biased by a mean-correlation relationship
-  - time: 10:15-10:30am
+  - time: 10:10-10:20am
     type: Talk
     speaker: Ting Huang
     title: "MSstatsTMT: Statistical detection of differentially abundant proteins in experiments with isobaric labeling and multiple mixtures"
     url:
-  - time: 10:30-10:45am
+  - time: 10:20-10:30am
     type: Talk
     speaker: Simina M. Boca
     title: Using the swfdr package to estimate false discovery rates conditional on covariates
     url:
-  - time: 10:45-11:00am
+  - time: 10:30-10:40am
     type: Talk
     speaker: Philippe Boileau
     title: Exploring High-Dimensional Biological Data with Sparse Contrastive Principal Component Analysis
+    url:
+  - time: 10:40-10:55am
+    type: "Q&A session"
+    speaker: 
+    title: 
     url:
   - time: 11:00-11:55am
     type: Workshop

@@ -36,26 +36,31 @@ schedule:
     speaker: Fei Chen
     title: 
     url: 
-  - time: 3:00-3:15pm
+  - time: 3:00-3:10pm
     type: Talk
     speaker: Lukas M. Weber
     title: "Unsupervised analysis of transcriptome-scale spatial gene expression data in the human frontal cortex"
     url: 
-  - time: 3:15-3:30pm
+  - time: 3:10-3:20pm
     type: Talk
     speaker: Dario Righelli
     title: VisiumExperiment an S4 class for 10x Visium Spatial Gene Expression
     url: 
-  - time: 3:30-3:45pm
+  - time: 3:20-3:30pm
     type: Talk
     speaker: Lambda Lu
     title: A comparison of spatial transcriptomics methods
     url: 
-  - time: 3:45-4:00pm
+  - time: 3:30-3:40pm
     type: Talk
     speaker: Ellis Patrick
     title: "Spatial analysis of in situ cytometry data"
     url: 
+  - time: 3:40-3:55pm
+    type: "Q&A session"
+    speaker: 
+    title: 
+    url:
   - time: 4:00-4:55pm
     type: Workshop
     speaker: Christopher Eeles

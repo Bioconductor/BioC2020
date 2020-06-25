@@ -31,26 +31,31 @@ schedule:
     speaker: Kylie Bemis
     title: 
     url: 
-  - time: 3:00-3:15pm
+  - time: 3:00-3:10pm
     type: Talk
     speaker: Daniel Bunis
     title: "dittoSeq: A universal user friendly single-cell and bulk RNA sequencing visualization toolkit"
     url: 
-  - time: 3:15-3:30pm
+  - time: 3:10-3:20pm
     type: Talk
     speaker: Koen Van den Berge
     title: Interpretation of single-cell RNA-seq trajectories using differential expression and differential progression analysis
     url: 
-  - time: 3:30-3:45pm
+  - time: 3:20-3:30pm
     type: Talk
     speaker: F. William Townes
     title: Dimension reduction for massive single-cell datasets
     url: 
-  - time: 3:45-4:00pm
+  - time: 3:30-3:40pm
     type: Talk
     speaker: Lauren Hsu
     title: "corral: A simple and fast approach for dimensionality reduction and data alignment in single-cell data"
     url: 
+  - time: 3:40-3:55pm
+    type: "Q&A session"
+    speaker: 
+    title: 
+    url:
   - time: 4:00-4:55pm
     type: Workshop
     speaker: Rui Li
