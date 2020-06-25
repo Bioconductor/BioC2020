@@ -14,7 +14,7 @@ schedule:
   - time: 10:30-11:00am
     type: Presentation
     speaker: 
-    title: "Presentation of the CAB + Bioc Awards ceremony"
+    title: "Introducing the Community Advisory Board + Bioconductor Awards ceremony"
     url: 
   - time: 11:00-11:55am
     type: Workshop
@@ -23,7 +23,7 @@ schedule:
     url: https://github.com/waldronlab/MultiAssayWorkshop
   - time: 12:00-12:55pm
     type: Break
-    speaker: Lunch, Posters, PBoF
+    speaker: Lunch, Posters, BoF
     title: 
     url: 
   - time: 1:00-1:55pm
