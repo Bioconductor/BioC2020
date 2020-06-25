@@ -32,7 +32,7 @@ schedule:
     url: https://github.com/kstreet13/bioc2020trajectories
   - time: 12:00-12:55pm
     type: Break
-    speaker: Lunch, Posters, PBoF
+    speaker: Lunch, Posters, BoF
     title: 
     url: 
   - time: 2:00-2:55pm

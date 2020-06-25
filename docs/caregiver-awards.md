@@ -16,7 +16,7 @@ who will be incurring additional expenses for childcare or other caregiving resp
 - Additional care expenses at home incurred because the primary caregiver was
 attending the meeting (e.g., cost of a sitter or nurse)
 
-**Receipts will be required to reimbursement**
+**Receipts will be required for reimbursement**
 
 ### Unallowable expenses
 

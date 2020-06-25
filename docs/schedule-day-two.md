@@ -18,7 +18,7 @@ schedule:
     url: https://github.com/waldronlab/CNVWorkshop
   - time: 12:00-12:55pm
     type: Break
-    speaker: Lunch, Posters, PBoF
+    speaker: Lunch, Posters, BoF
     title: 
     url: 
   - time: 1:00-1:55pm

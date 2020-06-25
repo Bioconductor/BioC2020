@@ -8,7 +8,7 @@ schedule:
     url:
   - time: 9:00-9:55am
     type: Keynote
-    speaker: Rafael Ifizarry
+    speaker: Rafael Irizarry
     title:
     url:
   - time: 10:00-10:15am
@@ -37,7 +37,7 @@ schedule:
     url: https://github.com/waldronlab/PublicDataResources
   - time: 12:00-12:55pm
     type: Break
-    speaker: Lunch, Posters, PBoF
+    speaker: Lunch, Posters, BoF
     title: 
     url: 
   - time: 1:00-1:55pm
