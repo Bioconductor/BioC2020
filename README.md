@@ -21,6 +21,7 @@ Please follow best practices by previewing changes locally.
 
 4. Install ruby pre-requisites.
 
+        bundle config set path 'vendor/bundle'  # once only, use instead of the --path flag
         bundle install --path vendor/bundle     # once only; references Gemfile
         # If the installer complains, add the suggested $PATH_TO_RUBY/bin
         # $HOME/.gem/ruby/2.3.0/bin/bundle
