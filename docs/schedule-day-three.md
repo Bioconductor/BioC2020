@@ -19,7 +19,7 @@ schedule:
   - time: 11:00-11:55am
     type: Workshop
     speaker: Marcel Ramos
-    title: "200: Multi-omic Integration and Analysis of cBioPortal and TCGA data with MultiAssayExperiment"
+    title: "200: MultiAssayExperiment and curatedTCGAData Bioconductor 2020 Workshop"
     url: https://github.com/waldronlab/MultiAssayWorkshop
   - time: 12:00-12:55pm
     type: Break
@@ -64,12 +64,12 @@ schedule:
   - time: 4:00-4:55pm
     type: Workshop
     speaker: Christopher Eeles
-    title: "200: Biomarker discovery from high throughput screening datasets"
+    title: "200: A workshop on discovering biomarkers from high through put response screens"
     url: https://github.com/bhklab/bioc2020workshop
   - time: 5:00-5:55pm
     type: Workshop
     speaker: Qian Liu
-    title: "500: Connecting Bioconductor to other bioinformatics tools using Rcwl"
+    title: "500: Bioconductor toolchain for usage and development of reproducible bioinformatics pipelines in CWL"
     url: https://github.com/Liubuntu/Bioc2020RCWL
 ---
 

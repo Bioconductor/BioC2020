@@ -4,7 +4,7 @@ schedule:
   - time: 8:00-8:55am
     type: Workshop
     speaker: Peter F. Hickey
-    title: "500: Effectively using the DelayedArray framework as a user to support the analysis of large datasets"
+    title: "500: A Workshop on Effectively Using the DelayedArray Framework to Support the Analysis of Large Datasets"
     url: https://github.com/PeteHaitch/BioC2020_DelayedArray_workshop
   - time: 9:00-9:55am
     type: Workshop

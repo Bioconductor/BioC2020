@@ -38,7 +38,7 @@ schedule:
   - time: 11:00-11:55am
     type: Workshop
     speaker: Levi Waldron
-    title: "100: Public data resources and Bioconductor"
+    title: "100: Public data resources in Bioconductor"
     url: https://github.com/waldronlab/PublicDataResources
   - time: 12:00-12:55pm
     type: Break
@@ -48,12 +48,12 @@ schedule:
   - time: 1:00-1:55pm
     type: Workshop
     speaker: Chloe Mirzayi
-    title: "100: Epidemiology for Bioinformaticians"
+    title: "100: A workshop for concepts of epidemiology"
     url: https://github.com/cmirzayi/epiforbioworkshop
   - time: 2:00-2:55pm
     type: Workshop
     speaker: John Lawson
-    title: "100: Annotation of inter-sample epigenetic variation with COCOA"
+    title: "100: Annotating inter-sample DNA methylation and ATAC-seq variation with COCOA"
     url: https://github.com/databio/cocoa_workshop_bioc2020
   - time: 3:00-3:55pm
     type: Workshop

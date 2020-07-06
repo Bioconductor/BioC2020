@@ -9,7 +9,7 @@ schedule:
   - time: 10:00-10:55am
     type: Workshop
     speaker: Haibo Liu
-    title: "200: Best practices for ATAC-seq QC and data analysis"
+    title: "200: ATAC-seq data quality control using the ATACseqQC package"
     url: https://github.com/haibol2016/ATACseqQCWorkshop
   - time: 11:00-11:55am
     type: Workshop
@@ -24,7 +24,7 @@ schedule:
   - time: 1:00-1:55pm
     type: Workshop
     speaker: Charlotte Soneson
-    title: "200: iSEE: Interactive visualization of SummarizedExperiment objects"
+    title: "200: Interactive Visualization of SummarizedExperiment Objects with iSEE"
     url: https://github.com/iSEE/iSEEWorkshop2020
   - time: 2:00-2:55pm
     type: Keynote

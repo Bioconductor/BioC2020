@@ -75,7 +75,8 @@ l100 <- c(
     "waldronlab/PublicDataResources",
     "databio/cocoa_workshop_bioc2020",
     "LieberInstitute/recountWorkshop2020",
-    "waldronlab/AnVILWorkshop"
+    "waldronlab/AnVILWorkshop",
+    "cmirzayi/epiforbioworkshop"
 )
 rtab <- make_repo_table(l100)
 knitr::kable(rtab[[1]], format = "markdown",
@@ -100,7 +101,6 @@ l200 <- c(
     "radio1988/oneStopRNAseqWorkshop",
     "hukai916/IntegratedChIPseqWorkshop",
     "aedin/Frontiers_Supplement",
-    "cmirzayi/epiforbioworkshop",
     "bhklab/bioc2020workshop",
     "broadinstitute/BioC2020Workshop_AMARETTO-Hub",
     "mikelove/alevin2bioc"
