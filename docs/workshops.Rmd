@@ -71,7 +71,6 @@ library(tibble)
 l100 <- c(
     "jmacdon/Bioc2020Anno",
     "stemangiola/bioc_2020_tidytranscriptomics",
-    "waldronlab/MultiAssayWorkshop",
     "waldronlab/PublicDataResources",
     "databio/cocoa_workshop_bioc2020",
     "LieberInstitute/recountWorkshop2020",
@@ -98,6 +97,7 @@ l200 <- c(
     "iSEE/iSEEWorkshop2020",
     "waldronlab/enrichOmics",
     "waldronlab/CNVWorkshop",
+    "waldronlab/MultiAssayWorkshop",
     "radio1988/oneStopRNAseqWorkshop",
     "hukai916/IntegratedChIPseqWorkshop",
     "aedin/Frontiers_Supplement",
