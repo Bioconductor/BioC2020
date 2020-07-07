@@ -4,3 +4,4 @@ docs/.sass-cache/
 docs/vendor/
 resources/
 .DS_store
+.Rproj.user
