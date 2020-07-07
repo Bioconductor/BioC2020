@@ -18,7 +18,7 @@ The BioC2020 conference sessions will be live-streamed. Optionally, pre-recorded
 
 - All presenters (keynote and contributed talk speakers, workshop and poster presenters) must register at the [BioC 2020 Invited Guest Registration form](https://docs.google.com/forms/d/e/1FAIpQLSe5gIWOJnyPcCaObhqbaht_64mf8SabZ_K8Y68EozXqX83clw/viewform) (select “Invited speaker”)
 
-- Presenters are encouraged to submit their slides, posters, and workshops to the [F1000Research Bioconductor gateway](https://f1000research.com/gateways/bioconductor/about-this-gateway for more information)
+- Presenters are encouraged to submit their slides, posters, and workshops to the [F1000Research Bioconductor gateway](https://f1000research.com/gateways/bioconductor/about-this-gateway) for more information.
 
 - Sessions may be pre-recorded, see [Pre-Recorded Video Information](https://drive.google.com/file/d/1u8V9sHL9pRKoPUAsIky3d4s_EfVOSSZQ/view?usp=sharing) for more details
 
