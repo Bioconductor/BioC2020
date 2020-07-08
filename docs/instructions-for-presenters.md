@@ -25,3 +25,11 @@ The BioC2020 conference sessions will be live-streamed. Optionally, pre-recorded
 - Workshop instructions are available at [https://github.com/seandavi/BuildABiocWorkshop2020](https://github.com/seandavi/BuildABiocWorkshop2020)
 
 - Join the [#bioc2020](https://community-bioc.slack.com/archives/CLAEUFVAA) and [#bioc2020-workshops](https://community-bioc.slack.com/archives/C015QR5FCGN) Slack channels for all conference-related questions
+
+## Description of live poster session format
+
+The virtual poster sessions will give poster presenters an opportunity to interact with interested participants just like a live poster session. A dedicated virtual meeting room will be assigned for each poster. These rooms can be accessed via web links posted on the ConferenceDirect website. Poster links will not be published on the public bioconductor website to limit viewers to conference attendees.
+
+The posters will be available for public preview before the poster session at F1000. Conference attendees can browse the posters there to determine which ones to visit during the poster session. We encourage all conference attendees to browse the list of posters beforehand, and then participate in the poster session by visiting the virtual rooms of the poster presenters. This provides the key mechanism for exchange of ideas in small groups at the conference.
+
+During the poster sessions, presenters should be present in the virtual room for their poster during their entire time slot. Since our videoconferencing platform allows you to be in multiple rooms at once, if you're not occupied with interested visitors at your poster, you should feel free to visit other posters -- just remember to keep your own room open in a separate window and monitor it. When a visitor arrives at your poster, you should politely leave your other conversation to entertain your visitor, much like you would at a real poster session.
