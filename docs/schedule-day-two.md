@@ -58,8 +58,8 @@ schedule:
     url:
   - time: 4:00-4:55pm
     type: Workshop
-    speaker: Rui Li
-    title: "200: Comprehensive RNAseq Analysis with oneStopRNAseq"
+    speaker: Lihua Julie Zhu
+    title: "200: CRISPRseek for design target-specific gRNAs for the CRISPR genome editing system including base editor and prime editor"
     url: https://github.com/radio1988/oneStopRNAseqWorkshop
   - time: 5:00-5:55pm
     type: Workshop

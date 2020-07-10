@@ -98,7 +98,7 @@ l200 <- c(
     "waldronlab/enrichOmics",
     "waldronlab/CNVWorkshop",
     "waldronlab/MultiAssayWorkshop",
-    "radio1988/oneStopRNAseqWorkshop",
+    "LihuaJulieZhu/CRISPRseekGUIDEseqBioc2020Workshop/",
     "hukai916/IntegratedChIPseqWorkshop",
     "aedin/Frontiers_Supplement",
     "bhklab/bioc2020workshop",
