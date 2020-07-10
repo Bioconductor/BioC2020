@@ -4,6 +4,8 @@ layout: default
 
 {% include header.md %}
 
+## General information
+
 The BioC2020 conference sessions will be live-streamed. Optionally, pre-recorded sessions may be used
 
 - The conference is organized in 1-hour blocks, which are 55 minutes + 5-minutes break. All sessions will be moderated.
@@ -26,7 +28,18 @@ The BioC2020 conference sessions will be live-streamed. Optionally, pre-recorded
 
 - Join the [#bioc2020](https://community-bioc.slack.com/archives/CLAEUFVAA) and [#bioc2020-workshops](https://community-bioc.slack.com/archives/C015QR5FCGN) Slack channels for all conference-related questions
 
-## Description of live poster session format
+## Poster session information
+
+Poster presenters need to submit their poster to the [Bioconductor BioC2020 conference gateway on F1000Research](https://f1000research.com/gateways/bioconductor/about-this-gateway) before the deadline (July 20th). The submission is free of charge, and published posters on F1000Research will receive a digital object identifier (DOI). For more details, please refer to the [Poster & Slides Guidelines](https://f1000research.com/gateways/bioconductor/for-authors/posters-and-slides-guidelines). There are no formatting requirements for posters (feel free to be creative); however, for those who would like to use it, a [poster template](https://drive.google.com/file/d/1N3pDnixeVwRFrjQrSJL9eziXq4RpcfaT/view?usp=sharing) is available. Inclusion of the Bioconductor logo and/or #BioC2020 is encouraged. 
+
+Posters will be tweeted by [@Bioconductor](https://twitter.com/Bioconductor) as they are received, so submit early to maximize your visibility.  If you tweet and promote your own poster, please include the hashtag #BioC2020.
+
+The virtual poster session will occur in two sessions;
+
+- Wednesday 07/29 at 12:00-12:55pm ET 
+- Friday    07/31 at 8:00-8:55am ET
+
+Please sign up to select your preferred poster session time using the ["Poster Session Sign-up" form](https://forms.gle/G38AUCFjNordAgc48).  You may attend both sessions, but are only requested to present at 1 session. 
 
 The virtual poster sessions will give poster presenters an opportunity to interact with interested participants just like a live poster session. A dedicated virtual meeting room will be assigned for each poster. These rooms can be accessed via web links posted on the ConferenceDirect website. Poster links will not be published on the public bioconductor website to limit viewers to conference attendees.
 
