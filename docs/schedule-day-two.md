@@ -60,7 +60,7 @@ schedule:
     type: Workshop
     speaker: Lihua Julie Zhu
     title: "200: CRISPRseek for design target-specific gRNAs for the CRISPR genome editing system including base editor and prime editor"
-    url: https://github.com/radio1988/oneStopRNAseqWorkshop
+    url: https://github.com/LihuaJulieZhu/CRISPRseekGUIDEseqBioc2020Workshop/
   - time: 5:00-5:55pm
     type: Workshop
     speaker: Kai Hu
