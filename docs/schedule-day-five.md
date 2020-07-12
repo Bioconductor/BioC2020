@@ -4,7 +4,7 @@ schedule:
   - time: 9:00-9:55am
     type: Keynote
     speaker: Caroline Uhler
-    title: 
+    title: "Multi-Domain Data Integration: From Observations to Mechanistic Insights"
     url: 
   - time: 10:00-10:10am
     type: Talk
@@ -43,7 +43,7 @@ schedule:
   - time: 2:00-2:55pm
     type: Keynote
     speaker: Aaron Lun
-    title: 
+    title: "Making the infrastructure sausage: tales of Bioconductor package development"
     url: 
   - time: 3:00-3:10pm
     type: Talk
@@ -85,7 +85,7 @@ All time is US Eastern Time. All sessions include Q&A time.
 
 {% for s in page.schedule %}
 
-{{ s.time }} | {% if s.type == "Keynote" %} **{{ s.type }}**, {{ s.speaker }} {% elsif s.type == "Talk" %} {{ s.type }}, {{ s.speaker }}, {{ s.title }} {% elsif s.type == "Q&A session" or s.type == "Break" %} {{ s.speaker }} {% elsif s.type == "Workshop" %} {{ s.type }}, {{ s.speaker }}, [{{ s.title }}]({{ s.url }}) {% endif %}
+{{ s.time }} | {% if s.type == "Keynote" %} **{{ s.type }}**, {{ s.speaker }}, {{ s.title }} {% elsif s.type == "Talk" %} {{ s.type }}, {{ s.speaker }}, {{ s.title }} {% elsif s.type == "Q&A session" or s.type == "Break" %} {{ s.speaker }} {% elsif s.type == "Workshop" %} {{ s.type }}, {{ s.speaker }}, [{{ s.title }}]({{ s.url }}) {% endif %}
 
 {% endfor %}
 
