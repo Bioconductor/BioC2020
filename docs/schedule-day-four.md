@@ -29,7 +29,7 @@ schedule:
   - time: 2:00-2:55pm
     type: Keynote
     speaker: X Shirley Liu
-    title: 
+    title: "Computational modeling of protein degradation in tumors"
     url: 
   - time: 3:00-3:10pm
     type: Talk
