@@ -75,6 +75,11 @@ schedule:
     speaker: Natalie Pochet
     title: "200: AMARETTO-Hub: a Knowledge Graph Platform Embedding *AMARETTO Tools for Multimodal and Multiscale Network BioMedicine"
     url: https://github.com/broadinstitute/BioC2020Workshop_AMARETTO-Hub
+  - time: 5:00-5:25pm
+    type: Talk
+    speaker: 
+    title: "Closing remarks"
+    url: 
 ---
 
 {% include header.md %}
