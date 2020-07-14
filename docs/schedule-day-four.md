@@ -8,7 +8,7 @@ schedule:
     url: https://github.com/PeteHaitch/BioC2020_DelayedArray_workshop
   - time: 9:00-9:55am
     type: Workshop
-    speaker: Sehyun Oh
+    speaker: Sehyun Oh, Levi Waldron
     title: "100: Cloud-based Genomics using Terra/AnVIL"
     url: https://github.com/waldronlab/AnVILWorkshop
   - time: 10:00-10:55am

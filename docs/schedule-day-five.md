@@ -32,7 +32,7 @@ schedule:
     url:
   - time: 11:00-11:55am
     type: Workshop
-    speaker: Kelly Street
+    speaker: Kelly Street, Koen Van den Berge
     title: "500: Trajectory inference across conditions: differential expression and differential progression"
     url: https://github.com/kstreet13/bioc2020trajectories
   - time: 12:00-12:55pm

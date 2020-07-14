@@ -63,8 +63,8 @@ schedule:
     url:
   - time: 4:00-4:55pm
     type: Workshop
-    speaker: Christopher Eeles
-    title: "200: A workshop on discovering biomarkers from high through put response screens"
+    speaker: Petr Smirnov, Arvind Mer, Christopher Eeles
+    title: "200: A workshop on discovering biomarkers from high throughput response screens"
     url: https://github.com/bhklab/bioc2020workshop
   - time: 5:00-5:55pm
     type: Workshop

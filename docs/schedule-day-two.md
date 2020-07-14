@@ -13,7 +13,7 @@ schedule:
     url: https://github.com/haibol2016/ATACseqQCWorkshop
   - time: 11:00-11:55am
     type: Workshop
-    speaker: Ludwig Geistlinger
+    speaker: Ludwig Geistlinger, Marcel Ramos, Sehyun Oh
     title: "200: Copy number variation analysis with Bioconductor"
     url: https://github.com/waldronlab/CNVWorkshop
   - time: 12:00-12:55pm
@@ -23,7 +23,7 @@ schedule:
     url: 
   - time: 1:00-1:55pm
     type: Workshop
-    speaker: Charlotte Soneson
+    speaker: Charlotte Soneson, Aaron Lun
     title: "200: Interactive Visualization of SummarizedExperiment Objects with iSEE"
     url: https://github.com/iSEE/iSEEWorkshop2020
   - time: 2:00-2:55pm
@@ -58,7 +58,7 @@ schedule:
     url:
   - time: 4:00-4:55pm
     type: Workshop
-    speaker: Lihua Julie Zhu
+    speaker: Lihua Julie Zhu, Jianhong Ou
     title: "200: CRISPRseek for design target-specific gRNAs for the CRISPR genome editing system including base editor and prime editor"
     url: https://github.com/LihuaJulieZhu/CRISPRseekGUIDEseqBioc2020Workshop/
   - time: 5:00-5:55pm
