@@ -23,7 +23,7 @@ schedule:
     url: 
   - time: 1:00-1:55pm
     type: Workshop
-    speaker: Charlotte Soneson, Aaron Lun
+    speaker: Charlotte Soneson,  Aaron Lun, Kevin Rue-Albrecht, Federico Marini
     title: "200: Interactive Visualization of SummarizedExperiment Objects with iSEE"
     url: https://github.com/iSEE/iSEEWorkshop2020
   - time: 2:00-2:55pm
