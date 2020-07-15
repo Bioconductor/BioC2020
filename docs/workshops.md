@@ -38,8 +38,7 @@ channels for up-to-date information
 | [Importing alevin scRNA-seq counts into R/Bioconductor](https://mikelove.github.io/alevin2bioc/)                                                                                                               | [![GH](images/GitHub-Mark-32px.png)](https://github.com/mikelove/alevin2bioc)                              | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/mikelove/alevin2bioc)                             |
 
 <sup>Missing `DESCRIPTION`: haibol2016/ATACseqQCWorkshop,
-aedin/Frontiers\_Supplement,
-broadinstitute/BioC2020Workshop\_AMARETTO-Hub</sup>
+aedin/Frontiers\_Supplement</sup>
 
 ### 500 Level Workshops
 

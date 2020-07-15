@@ -102,7 +102,7 @@ l200 <- c(
     "hukai916/IntegratedChIPseqWorkshop",
     "aedin/Frontiers_Supplement",
     "bhklab/bioc2020workshop",
-    "broadinstitute/BioC2020Workshop_AMARETTO-Hub",
+#    "broadinstitute/BioC2020Workshop_AMARETTO-Hub",
     "mikelove/alevin2bioc"
 )
 rtab <- make_repo_table(l200)
