@@ -9,7 +9,7 @@ schedule:
   - time: 9:00-9:55am
     type: Keynote
     speaker: Rafael Irizarry
-    title:
+    title: Probabilistic Gene Expression Signatures for Single Cell RNA-seq Data
     url:
   - time: 10:00-10:10am
     type: Talk
@@ -37,7 +37,7 @@ schedule:
     url:
   - time: 11:00-11:55am
     type: Workshop
-    speaker: Levi Waldron
+    speaker: Levi Waldron, Sean Davis
     title: "100: Public data resources in Bioconductor"
     url: https://github.com/waldronlab/PublicDataResources
   - time: 12:00-12:55pm
@@ -47,8 +47,8 @@ schedule:
     url: 
   - time: 1:00-1:55pm
     type: Workshop
-    speaker: Chloe Mirzayi
-    title: "100: A workshop for concepts of epidemiology"
+    speaker: Chloe Mirzayi, Levi Waldron
+    title: "100: Epidemiology for Bioinformaticians Workshop"
     url: https://github.com/cmirzayi/epiforbioworkshop
   - time: 2:00-2:55pm
     type: Workshop
