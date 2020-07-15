@@ -75,7 +75,7 @@ l100 <- c(
     "databio/cocoa_workshop_bioc2020",
     "LieberInstitute/recountWorkshop2020",
     "waldronlab/AnVILWorkshop",
-    "cmirzayi/epiforbioworkshop2020"
+    "cmirzayi/EpiForBioWorkshop2020"
 )
 rtab <- make_repo_table(l100)
 knitr::kable(rtab[[1]], format = "markdown",
