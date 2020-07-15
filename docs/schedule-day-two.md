@@ -1,6 +1,11 @@
 ---
 layout: default
 schedule:
+  - time: 8:00-8:55am
+    type: Talk
+    speaker: 
+    title: Open breakfast meeting
+    url:
   - time: 9:00-9:55am
     type: Workshop
     speaker: Ludwig Geistlinger
@@ -9,7 +14,7 @@ schedule:
   - time: 10:00-10:55am
     type: Workshop
     speaker: Haibo Liu
-    title: "200: ATAC-seq data quality control using the ATACseqQC package"
+    title: "200: Best practices for ATAC-seq QC and data analysis"
     url: https://github.com/haibol2016/ATACseqQCWorkshop
   - time: 11:00-11:55am
     type: Workshop
@@ -18,7 +23,7 @@ schedule:
     url: https://github.com/waldronlab/CNVWorkshop
   - time: 12:00-12:55pm
     type: Break
-    speaker: Lunch, Posters, BoF
+    speaker: Birds of a Feather Talks, Talk with the BioC Core Team
     title: 
     url: 
   - time: 1:00-1:55pm
@@ -63,7 +68,7 @@ schedule:
     url: https://github.com/LihuaJulieZhu/CRISPRseekGUIDEseqBioc2020Workshop/
   - time: 5:00-5:55pm
     type: Workshop
-    speaker: Kai Hu
+    speaker: Kai Hu, Jianhong Ou
     title: "200: Integrated ChIP-seq Data Analysis Workshop"
     url: https://github.com/hukai916/IntegratedChIPseqWorkshop
 ---

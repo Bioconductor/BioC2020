@@ -47,7 +47,7 @@ schedule:
     url: 
   - time: 1:00-1:55pm
     type: Workshop
-    speaker: Chloe Mirzayi, Levi Waldron
+    speaker: Chloe Mirzayi
     title: "100: Epidemiology for Bioinformaticians Workshop"
     url: https://github.com/cmirzayi/epiforbioworkshop
   - time: 2:00-2:55pm

@@ -1,20 +1,20 @@
 ---
 layout: default
 schedule:
+  - time: 8:00-8:55am
+    type: Talk
+    speaker: 
+    title: "Presentation of the BioC Commuity Advisory Board and BioC Awards Ceremony"
+    url:
   - time: 9:00-9:55am
     type: Keynote
     speaker: Corrie Painter
     title: 
     url: 
-  - time: 10:00-10:30am
-    type: BoF
-    speaker: Leonardo Collado-Torres
-    title: "CDSB community: efforts to strengthen the R/Bioconductor developer community in Mexico/LatAm and results showcased by regutools"
-    url: https://github.com/Bioconductor/BioC2020/issues/67
-  - time: 10:30-11:00am
-    type: Presentation
+  - time: 10:00-10:55am
+    type: Talk
     speaker: 
-    title: "Introducing the Community Advisory Board + Bioconductor Awards ceremony"
+    title: "CDSB community Meeting"
     url: 
   - time: 11:00-11:55am
     type: Workshop
