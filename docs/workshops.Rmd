@@ -100,7 +100,7 @@ l200 <- c(
     "waldronlab/MultiAssayWorkshop",
     "LihuaJulieZhu/CRISPRseekGUIDEseqBioc2020Workshop/",
     "hukai916/IntegratedChIPseqWorkshop",
-    "aedin/Frontiers_Supplement",
+    "aedin/PCAworkshop",
     "bhklab/bioc2020workshop",
 #    "broadinstitute/BioC2020Workshop_AMARETTO-Hub",
     "mikelove/alevin2bioc"

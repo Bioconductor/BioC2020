@@ -29,8 +29,8 @@ schedule:
   - time: 1:00-1:55pm
     type: Workshop
     speaker: Aedin Culhane
-    title: "200: Hitchhikers Guide to PCA; Demystifying dimensionality reduction in R/Bioconductor"
-    url: https://github.com/aedin/Frontiers_Supplement
+    title: "200: A introduction to principal component analysis"
+    url: https://github.com/aedin/PCAworkshop
   - time: 2:00-2:55pm
     type: Keynote
     speaker: Fei Chen
