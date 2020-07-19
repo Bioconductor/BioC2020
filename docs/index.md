@@ -34,7 +34,7 @@ speakers:
 {% include header.md %}
 
 
-BioC2020 is proceeding as a Virtual Conference, July 27-31, 2020. 
+BioC2020 is proceeding as a [Virtual Conference](https://bioc2020.pathable.co/), July 27-31, 2020. 
 
 BioC2020 highlights current developments within and beyond
 the [Bioconductor](https://www.bioconductor.org) project. 
@@ -78,7 +78,7 @@ Conference flyer [#1](images/flyers/BioC2020Flyerlandscape_lg.pdf), [#2](images/
 - July 16: Deadline for [scholarship/caregiver awards](./call-for-abstracts.md)
 - July 20: Notification of decision for awards
 - July 20: Last day of early [registration](https://datasciences.eventsmart.com/events/bioc2020/)
-- July 27-31: BioC2020 Virtual Meeting
+- July 27-31: [BioC2020 Virtual Meeting](https://bioc2020.pathable.co/)
 
 ## Confirmed Speakers
 
