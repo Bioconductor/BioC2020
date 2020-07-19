@@ -6,7 +6,7 @@ layout: default
 
 ## General information
 
-The [BioC2020 conference](https://bioc2020.pathable.co/) sessions will be live-streamed. Optionally, pre-recorded sessions may be used
+The [BioC2020 conference](https://bioc2020.pathable.co/) sessions will be live-streamed. Optionally, pre-recorded sessions may be used. [Google Chrome browser](https://www.google.com/chrome/) is recommended.
 
 - The conference is organized in 1-hour blocks, which are 55 minutes + 5-minutes break. All sessions will be moderated.
     - Keynote talks include 55 minutes for talk + discussion (~40 minutes talk, 15 minutes discussion)
