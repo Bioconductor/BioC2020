@@ -42,7 +42,7 @@ The structure of the conference is still being determined but will contain the f
 
 * Keynotes and contributed talks with live Q&A sessions
 * Interactive [workshops](./workshops.md)
-* Virtual poster session
+* Virtual [poster session](https://f1000research.com/gateways/bioconductor/bioc2020)
 
 [Registration for virtual Bioc2020 is open](https://datasciences.eventsmart.com/events/bioc2020/).
 A new flat-rate fee of $50.00 USD will give attendees access to the virtual platform for the conference, talks, workshops, Q&As following each session, network opportunities. The [early registration](https://datasciences.eventsmart.com/events/bioc2020/) deadline is July 20, 2020.
