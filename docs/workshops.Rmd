@@ -144,7 +144,7 @@ Workshop packages were created using the
 [BuildABiocWorkshop2020](https://github.com/seandavi/BuildABiocWorkshop2020)
 template.
 
-*NOTE*. Missing workshops should include a valid `DESCRIPTION` file with the
+*NOTE*. All workshops should include a valid `DESCRIPTION` file with the
 following fields:
 
 * `URL:` - the GitHub pages URL (`https://username.github.io/repository`)
