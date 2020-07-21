@@ -9,7 +9,7 @@ layout: default
 Join the *Bioconductor*
 [\#bioc2020](https://community-bioc.slack.com/archives/CLAEUFVAA) and
 [\#bioc2020-workshops](https://community-bioc.slack.com/archives/C015QR5FCGN)
-channels for up-to-date information
+channels for up-to-date information.
 
 ### 100 Level Workshops
 
@@ -54,12 +54,45 @@ channels for up-to-date information
 
 <sup></sup>
 
+Workshops with preinstalled dependencies can be run locally using
+Docker.
+
+  - `docker pull <userid/workshop:latest>` will pull the latest image
+    for a given `<workshop>`.
+  - `docker run -e PASSWORD=<yourpassword> -p 8787:8787 -d --rm
+    <userid/workshop>` will publish a container’s port 8787 to the host
+    (`-p`), run in the detached mode (`-d`), and cleanly remove the
+    container when it is stopped (`--rm`).
+  - Open <http://localhost:8787> and login with username `rstudio` and
+    password `<yourpassword>`.
+  - Run `browseVignettes(package = "<workshop>")`. Click on one of the
+    links, “HTML”, “source”, “R code”.
+      - In case of “`The requested page was not found`” error, add
+        `help/` to the URL right after the hostname. This is a [known
+        bug](https://github.com/rocker-org/rocker-versioned/issues/178).
+
+Advanced: Use `-v $(pwd):/home/rstudio` argument to map your local
+directory to the container. Use `-e DISABLE_AUTH=true`, if you want
+passwordless login to RStudio. On Windows, you may need to provide your
+localhost IP address like `http://191.163.92.108:8787/` - find it using
+`docker-machine ip default` in Docker’s terminal.
+
+Example:
+
+    docker pull waldronlab/publicdataresources:latest
+    docker run -e PASSWORD=bioconductor -p 8787:8787 -d --rm waldronlab/publicdataresources
+    # Open http://localhost:8787 and login using rstudio/bioconductor credentials
+    # Run browseVignettes(package = "PublicDataResources")
+    # Open http://localhost:8787/help/library/PublicDataResources/doc/PublicDataResources.html
+    docker ps -a # List all running containers
+    docker stop <CONTAINER ID> # or, <NAMES> - Stop a container
+
 Workshop packages were created using the
 [BuildABiocWorkshop2020](https://github.com/seandavi/BuildABiocWorkshop2020)
 template.
 
-*NOTE*. Missing workshops should include a valid `DESCRIPTION` file with
-the following fields:
+*NOTE*. All workshops should include a valid `DESCRIPTION` file with the
+following fields:
 
   - `URL:` - the GitHub pages URL
     (`https://username.github.io/repository`)
