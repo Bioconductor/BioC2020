@@ -25,6 +25,7 @@ Following on from previous years, we are inviting conference attendees to contri
 | July 16 | Deadline for [scholarships](./scholarships.md) and [caregiver](./caregiver-awards.md) awards |
 | July 20 | Notification of decision for awards |
 
+<!--
 ## Call for Posters
 
 - [BioC 2020: Poster Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfMdX7Oo3C6gDMdNhgZ2x_vkCMVCcYbmjldUvcaILQv63Hjcw/viewform)
@@ -43,3 +44,4 @@ Example of a [BOF proposal](https://github.com/Bioconductor/BioC2020/issues/67) 
 
 * [BioC 2020 Scholarships](./scholarships.md)
 * [BioC 2020 Caregiver awards](./caregiver-awards.md)
+-->
