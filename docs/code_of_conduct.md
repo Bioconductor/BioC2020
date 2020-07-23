@@ -6,7 +6,7 @@ layout: default
 
 # Code of Conduct
 
-This code of conduct is developed for the virtual Bioc2020 conference addressing online behavior.
+This code of conduct is developed for the virtual Bioc2020 conference.
 <!-- The original Code of Conduct is copy-pasted and quoted below -->
 
 ## Social media policy
@@ -21,9 +21,8 @@ conference experience for everyone, regardless of:
 physical appearance, body size, race, age, or religion. 
 * intellectual position: approaches to data analysis, software preferences, coding style, scientific perspective, etc.
 
-We do not tolerate harassment, intimidation, or bullying of conference participants in talks, 
-workshops, poster sessions, social activities, 
-or online. Sexual language and imagery are not appropriate for any online venue, including chats. 
+The Virtual Event Code of Conduct applies to Bioc2020 virtual events and communications, including but not limited to the virtual platform, talks, workshops, poster sessions, social activities, slack, online and social media communications. We do not tolerate harassment, intimidation, or bullying of conference participants. Sexual language and imagery are not appropriate in presentations, communications, in online venues, including chats. 
+
 Conference participants violating these rules may be sanctioned or expelled from the conference with no refund, 
 at the discretion of the conference organizers. Our anti-harassment policy can be found at [https://bioc2020.bioconductor.org/code_of_conduct](https://bioc2020.bioconductor.org/code_of_conduct)
 
