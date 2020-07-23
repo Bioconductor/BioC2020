@@ -37,6 +37,8 @@ speakers:
 BioC2020 is proceeding as a [Virtual Conference](https://bioc2020.pathable.co/), July 27-31, 2020.  BioC2020 highlights current developments within and beyond
 the [Bioconductor](https://www.bioconductor.org) project. 
 
+Registration to [virtual Bioc2020](https://bioc2020.pathable.co/) is now closed. We are at capacity of the virtual platform. If registered participants are unable to attend, please let us know. If you have registered, you should receive an email from pathable.com with your login information to the virtual platform.  
+
 ## Conference highlights
 
 * Keynotes and contributed talks with live Q&A sessions
