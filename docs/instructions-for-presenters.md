@@ -45,3 +45,8 @@ The virtual poster sessions will give poster presenters an opportunity to intera
 The posters will be available for public preview before the poster session at F1000. Conference attendees can browse the posters there to determine which ones to visit during the poster session. We encourage all conference attendees to browse the list of posters beforehand, and then participate in the poster session by visiting the virtual rooms of the poster presenters. This provides the key mechanism for exchange of ideas in small groups at the conference.
 
 During the poster sessions, presenters should be present in the virtual room for their poster during their entire time slot. Since our videoconferencing platform allows you to be in multiple rooms at once, if you're not occupied with interested visitors at your poster, you should feel free to visit other posters -- just remember to keep your own room open in a separate window and monitor it. When a visitor arrives at your poster, you should politely leave your other conversation to entertain your visitor, much like you would at a real poster session.
+
+## Contact information
+
+* Contact Us: [workshop@bioconductor.org](mailto:workshop@bioconductor.org)
+* Technical Support for BioC2020: [virtual@conferencedirect.com](mailto:virtual@conferencedirect.com)
