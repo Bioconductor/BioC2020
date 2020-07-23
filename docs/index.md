@@ -50,6 +50,8 @@ Registration to [virtual Bioc2020](https://bioc2020.pathable.co/) is now closed.
 * Follow [@Bioconductor](https://twitter.com/Bioconductor) on Twitter [https://twitter.com/Bioconductor](https://twitter.com/Bioconductor)
 * For Bioconductor support, use [https://support.bioconductor.org/](https://support.bioconductor.org/)
 * Bioconductor website [https://www.bioconductor.org/](https://www.bioconductor.org/)
+* Contact Us: [workshop@bioconductor.org](mailto:workshop@bioconductor.org)
+* Technical Support for BioC2020: [virtual@conferencedirect.com](mailto:virtual@conferencedirect.com)
 
 <!--
 [Registration for virtual Bioc2020 is open](https://datasciences.eventsmart.com/events/bioc2020/).
