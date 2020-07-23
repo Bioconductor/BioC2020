@@ -6,7 +6,7 @@ layout: default
 
 ## Registration
 
-Registration to virtual Bioc2020 is now closed. We are at capacity of the virtual platform. If registered participants are unable to attend, please let us know.   
+Registration to virtual Bioc2020 is now closed. We are at capacity of the virtual platform. If registered participants are unable to attend, please let us know. If you have registered, you should receive an email from pathable.com with your login information to the virtual platform.  
 
 In the unlikely situation that registered participants can not attend, if you wish to add your name to a waitlist [click here](https://forms.gle/eisvLzg4RpGZPnhr5)
 
