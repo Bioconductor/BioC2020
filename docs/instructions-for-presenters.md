@@ -6,7 +6,7 @@ layout: default
 
 ## General information
 
-The [BioC2020 conference](https://bioc2020.pathable.co/) sessions will be live-streamed. Optionally, pre-recorded sessions may be used. [Google Chrome browser](https://www.google.com/chrome/) is recommended.
+The [BioC2020 conference](https://bioc2020.pathable.co/) sessions will be live-streamed. Optionally, pre-recorded sessions may be used. [Google Chrome browser](https://www.google.com/chrome/) is recommended. 
 
 - The conference is organized in 1-hour blocks, which are 55 minutes + 5-minutes break. All sessions will be moderated.
     - Keynote talks include 55 minutes for talk + discussion (~40 minutes talk, 15 minutes discussion)
@@ -15,7 +15,7 @@ The [BioC2020 conference](https://bioc2020.pathable.co/) sessions will be live-s
     
 - Bioc2020 conference web site: [https://bioc2020.pathable.co/](https://bioc2020.pathable.co/)
     - [Conference Direct](https://conferencedirect.com/) is the platform hosting the BioC2020 conference
-    - [Pathable](https://pathable.com/), which uses [Zoom](https://zoom.us/) as a backend will be used for videoconferencing
+    - [Pathable](https://pathable.com/), which uses [Zoom](https://zoom.us/) as a backend will be used for videoconferencing. [Bioc2020-themed virtual background](https://drive.google.com/drive/folders/1hdZTD-lgsx1u9V0Ln3hBu-3wYuEbGbwA) is recommended.
 
 - All presenters (keynote and contributed talk speakers, workshop and poster presenters) must register at the [BioC 2020 Invited Guest Registration form](https://docs.google.com/forms/d/e/1FAIpQLSe5gIWOJnyPcCaObhqbaht_64mf8SabZ_K8Y68EozXqX83clw/viewform) (select “Invited speaker”)
 
