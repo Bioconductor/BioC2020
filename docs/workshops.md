@@ -19,10 +19,11 @@ channels for up-to-date information.
 | [A Tidy Transcriptomics introduction to RNA-Seq analyses](https://stemangiola.github.io/bioc_2020_tidytranscriptomics/)  | [![GH](images/GitHub-Mark-32px.png)](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/stemangiola/bioc_2020_tidytranscriptomics) |
 | [Public Data Resources in Bioconductor](https://waldronlab.io/PublicDataResources/)                                      | [![GH](images/GitHub-Mark-32px.png)](https://github.com/waldronlab/PublicDataResources)            | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/waldronlab/publicdataresources)            |
 | [Annotating inter-sample DNA methylation and ATAC-seq variation with COCOA](http://databio.org/cocoa_workshop_bioc2020/) | [![GH](images/GitHub-Mark-32px.png)](https://github.com/databio/cocoa_workshop_bioc2020)           | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/databio/cocoa_workshop_bioc2020)           |
+| [Human RNA-seq data from recount2 and related packages](https://github.com//LieberInstitute/recountWorkshop2020)         | [![GH](images/GitHub-Mark-32px.png)](https://github.com/LieberInstitute/recountWorkshop2020)       | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/lcollado/recountworkshop2020)              |
 | [Cloud-based Genomics using Terra/AnVIL](https://waldronlab.github.io/AnVILWorkshop/)                                    | [![GH](images/GitHub-Mark-32px.png)](https://github.com/waldronlab/AnVILWorkshop)                  | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/shbrief/anvilworkshop)                     |
 | [Epidemiology for Bioinformaticians Workshop](https://cmirzayi.github.io/EpiForBioWorkshop2020/)                         | [![GH](images/GitHub-Mark-32px.png)](https://github.com/cmirzayi/EpiForBioWorkshop2020)            | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/cmirzayi/epiforbioworkshop2020)            |
 
-<sup>Missing `DESCRIPTION`: LieberInstitute/recountWorkshop2020</sup>
+<sup></sup>
 
 ### 200 Level Workshops
 
