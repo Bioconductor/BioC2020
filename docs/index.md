@@ -46,7 +46,7 @@ Registration to [virtual Bioc2020](https://bioc2020.pathable.co/) is now closed.
 * Posters and Slides are available on the [Bioconductor F1000 Bioc2020 portal](https://f1000research.com/gateways/bioconductor/bioc2020)
 * Live tweets of the conference will be posted on [Twitter](https://twitter.com/hashtag/bioc2020) using [#bioc2020](https://twitter.com/hashtag/bioc2020) hashtag
 * Videos of talks will be posted on the [Bioconductor YouTube channel](https://www.youtube.com/user/bioconductor) after the conference (August 14)
-* Join Bioc conversations on Slack [https://community-bioc.slack.com/](https://community-bioc.slack.com/)
+* Join Bioc conversations on Slack [https://bioc-community.herokuapp.com/](https://bioc-community.herokuapp.com/)
 * Follow [@Bioconductor](https://twitter.com/Bioconductor) on Twitter [https://twitter.com/Bioconductor](https://twitter.com/Bioconductor)
 * For Bioconductor support, use [https://support.bioconductor.org/](https://support.bioconductor.org/)
 * Bioconductor website [https://www.bioconductor.org/](https://www.bioconductor.org/)
