@@ -41,6 +41,7 @@ Registration to [virtual Bioc2020](https://bioc2020.pathable.co/) is now closed.
 
 ## Conference highlights
 
+* Lightning talks, [submission open](https://bit.ly/bioc2020lightning)
 * Keynotes and contributed talks with live Q&A sessions
 * [Workshop materials](./workshops.md) are available
 * Posters and Slides are available on the [Bioconductor F1000 Bioc2020 portal](https://f1000research.com/gateways/bioconductor/bioc2020)
