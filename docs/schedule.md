@@ -24,9 +24,9 @@ All time is US Eastern Time. All sessions include Q&A time.
 | 11:00 AM               | Workshop | [100: Levi Waldron, Public data resources in Bioconductor](https://youtu.be/wxY1I08Fz2o)                                                                                     |
 | 12:00 PM               | Community     | [Birds of a Feather: On Standards for Accessible and Interpretable Visualizations](https://youtu.be/gGkAvO4zGC8)                                             |
 | 12:00 PM               | Community | Talk with the BioC Core Team                                                                                                   |
-| 1:00 PM                | Workshop | 100:  Chloe Mirzayi, A workshop for concepts of epidemiology                                                                                   |
-| 2:00 PM                | Workshop | 100: John Lawson, Annotating inter-sample DNA methylation and ATAC-seq variation with   COCOA                                               |
-| 3:00 PM                | Workshop | 100: Leonardo Collado-Torres, Human RNA-seq data from recount2 and related packages                                                                     |
+| 1:00 PM                | Workshop | [100:  Chloe Mirzayi, A workshop for concepts of epidemiology](https://youtu.be/gRX7ybM6SmA)                                                                                   |
+| 2:00 PM                | Workshop | [100: John Lawson, Annotating inter-sample DNA methylation and ATAC-seq variation with COCOA](https://youtu.be/raMA0IVWVUQ)                                               |
+| 3:00 PM                | Workshop | [100: Leonardo Collado-Torres, Human RNA-seq data from recount2 and related packages](https://youtu.be/EDe0e_VaENQ)                                                                     |
 | 4:00 PM                | Workshop | 100: James W. MacDonald, Introduction to Bioconductor annotation resources                                                                         |
 | 5:00 PM                | Workshop | 100: Stefano Mangiola, A tidy transcriptomics introduction to RNA-Seq analyses                                                                   |
 | **Tuesday,   7/28/2020**   |          |       
