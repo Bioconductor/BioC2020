@@ -27,12 +27,12 @@ All time is US Eastern Time. All sessions include Q&A time.
 | 1:00 PM                | Workshop | [100:  Chloe Mirzayi, A workshop for concepts of epidemiology](https://youtu.be/gRX7ybM6SmA)                                                                                   |
 | 2:00 PM                | Workshop | [100: John Lawson, Annotating inter-sample DNA methylation and ATAC-seq variation with COCOA](https://youtu.be/raMA0IVWVUQ)                                               |
 | 3:00 PM                | Workshop | [100: Leonardo Collado-Torres, Human RNA-seq data from recount2 and related packages](https://youtu.be/EDe0e_VaENQ)                                                                     |
-| 4:00 PM                | Workshop | 100: James W. MacDonald, Introduction to Bioconductor annotation resources                                                                         |
-| 5:00 PM                | Workshop | 100: Stefano Mangiola, A tidy transcriptomics introduction to RNA-Seq analyses                                                                   |
+| 4:00 PM                | Workshop | [100: James W. MacDonald, Introduction to Bioconductor annotation resources](https://youtu.be/QKGwf8pKb6A)                                                                         |
+| 5:00 PM                | Workshop | [100: Stefano Mangiola, A tidy transcriptomics introduction to RNA-Seq analyses](https://youtu.be/5Cgnpwv19Jk)                                                                   |
 | **Tuesday,   7/28/2020**   |          |       
 |
 | 8:00 AM                | Community   | Open breakfast meeting                                                                                                         |
-| 9:00 AM                | Workshop | 200: Ludwig Geistlinger, Functional enrichment analysis of high-throughput omics data                                                              |
+| 9:00 AM                | Workshop | [200: Ludwig Geistlinger, Functional enrichment analysis of high-throughput omics data](https://youtu.be/n0vVwuQSZkg)                                                              |
 | 10:00 AM               | Workshop | 200:  Haibo Liu, Best practices for ATAC-seq QC and data analysis                                                                          |
 | 11:00 AM               | Workshop | 200: Ludwig Geistlinger, Marcel Ramos, Sehyun Oh, Copy number variation analysis with Bioconductor                                                                          |
 | 12:00 PM               | Community     | Birds of a Feather Talks                                                                                                       |
