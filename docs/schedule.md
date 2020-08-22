@@ -18,7 +18,7 @@ All time is US Eastern Time. All sessions include Q&A time.
 
 |
 | 8:00 AM                | Community   | Open breakfast meeting                                                                                                         |
-| 8:30 AM                | Talk     | Talk, Martin Morgan, Introduction & Welcome                                                                                                              |
+| 8:30 AM                | Talk     | [Talk, Martin Morgan, Introduction & Welcome](https://youtu.be/LJT9HjKiipU)                                                                                                              |
 | 9:00 AM                | Talk     | [Keynote, Rafael Irizarry. Probabilistic Gene Expression Signatures for Single Cell RNA-seq Data](https://youtu.be/8MojYYkuLcM)                                                          |
 | 10:00 AM               | Talk     | [Contributed Talk 1, Yi Wang, Ting Huang, Simina Boca, Phillipe Boilleau](https://youtu.be/uCf24yYstKU)                                                                                                           |
 | 11:00 AM               | Workshop | [100: Levi Waldron, Public data resources in Bioconductor](https://youtu.be/wxY1I08Fz2o)                                                                                     |
