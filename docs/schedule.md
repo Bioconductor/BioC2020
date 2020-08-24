@@ -34,7 +34,7 @@ All time is US Eastern Time. All sessions include Q&A time.
 | 8:00 AM                | Community   | Open breakfast meeting                                                                                                         |
 | 9:00 AM                | Workshop | [200: Ludwig Geistlinger, Functional enrichment analysis of high-throughput omics data](https://youtu.be/n0vVwuQSZkg)                                                              |
 | 10:00 AM               | Workshop | [200:  Haibo Liu, Best practices for ATAC-seq QC and data analysis](https://youtu.be/VZFUu_cJxyI)                                                                          |
-| 11:00 AM               | Workshop | 200: Ludwig Geistlinger, Marcel Ramos, Sehyun Oh, Copy number variation analysis with Bioconductor                                                                          |
+| 11:00 AM               | Workshop | [200: Ludwig Geistlinger, Marcel Ramos, Sehyun Oh, Copy number variation analysis with Bioconductor](https://youtu.be/MZL1HtMjyL4)                                                                          |
 | 12:00 PM               | Community     | Birds of a Feather Talks                                                                                                       |
 | 12:00 PM               | Community | Talk with the BioC Technical Advisory Board                                                                                    |
 | 1:00 PM                | Workshop | 200: Charlotte Soneson, Aaron Lun, Interactive visualization of SummarizedExperiment objects with iSEE                                                       |
