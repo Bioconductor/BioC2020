@@ -37,7 +37,7 @@ All time is US Eastern Time. All sessions include Q&A time.
 | 11:00 AM               | Workshop | [200: Ludwig Geistlinger, Marcel Ramos, Sehyun Oh, Copy number variation analysis with Bioconductor](https://youtu.be/MZL1HtMjyL4)                                                                          |
 | 12:00 PM               | Community     | Birds of a Feather Talks                                                                                                       |
 | 12:00 PM               | Community | [Talk with the BioC Technical Advisory Board](https://youtu.be/QIByL02DSzI)                                                                                    |
-| 1:00 PM                | Workshop | 200: Charlotte Soneson, Aaron Lun, Interactive visualization of SummarizedExperiment objects with iSEE                                                       |
+| 1:00 PM                | Workshop | [200: Charlotte Soneson, Aaron Lun, Interactive visualization of SummarizedExperiment objects with iSEE](https://youtu.be/qmoJtL8b438)                                                       |
 | 2:00 PM                | Talk     | [Keynote, Kylie Bemis, Out-of-memory computing with matter](https://youtu.be/AQkAlkuhj70)                                                                                            |
 | 3:00 PM                | Talk     | Contributed Talks 2, Daniel Bunis, Koen Van den Berge, F. William townes. Lauren Hsu                                                                                                            |
 | 4:00 PM                | Workshop | 200:  Lihua Julie Zhu, Jianhong Ou, CRISPRseek for design target-specific gRNAs for the CRISPR genome   editing system including base editor and prime editor |
