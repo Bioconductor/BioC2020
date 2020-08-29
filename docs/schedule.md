@@ -41,7 +41,7 @@ All time is US Eastern Time. All sessions include Q&A time.
 | 2:00 PM                | Talk     | [Keynote, Kylie Bemis, Out-of-memory computing with matter](https://youtu.be/AQkAlkuhj70)                                                                                            |
 | 3:00 PM                | Talk     | [Contributed Talks 2, Daniel Bunis, Koen Van den Berge, F. William Townes. Lauren Hsu](https://youtu.be/TyHoVhDk9NU)                                                                                                            |
 | 4:00 PM                | Workshop | [200:  Lihua Julie Zhu, Jianhong Ou, CRISPRseek for design target-specific gRNAs for the CRISPR genome   editing system including base editor and prime editor](https://youtu.be/Kj2yzZ_45cU) |
-| 5:00 PM                | Workshop | 200: Kai Hu, Integrated ChIP-seq data analysis workshop                                                                                |
+| 5:00 PM                | Workshop | [200: Kai Hu, Integrated ChIP-seq data analysis workshop](https://youtu.be/EAxFrz_F4bg)                                                                                |
 | **Wednesday,   7/29/2020** |          |                                                                                                                                |
 | 8:00 AM                | Community   | Presentation of the BioC Commuity Advisory Board                                                       |
 | 8:40 AM                | Community   | Presentation of the BioC Awards Ceremony                                                      |
