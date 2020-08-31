@@ -43,8 +43,8 @@ All time is US Eastern Time. All sessions include Q&A time.
 | 4:00 PM                | Workshop | [200:  Lihua Julie Zhu, Jianhong Ou, CRISPRseek for design target-specific gRNAs for the CRISPR genome   editing system including base editor and prime editor](https://youtu.be/Kj2yzZ_45cU) |
 | 5:00 PM                | Workshop | [200: Kai Hu, Integrated ChIP-seq data analysis workshop](https://youtu.be/EAxFrz_F4bg)                                                                                |
 | **Wednesday,   7/29/2020** |          |                                                                                                                                |
-| 8:00 AM                | Community   | Presentation of the BioC Commuity Advisory Board                                                       |
-| 8:40 AM                | Community   | Presentation of the BioC Awards Ceremony                                                      |
+| 8:00 AM                | Community   | [Presentation of the BioC Commuity Advisory Board](https://youtu.be/noHn5fEbBwA)                                                       |
+| 8:40 AM                | Community   | [Presentation of the BioC Awards Ceremony](https://youtu.be/noHn5fEbBwA)                                                      |
 
 | 9:00 AM                | Talk     | [Keynote, Corrie Painter, Count Me In, Partnering with patients to accelerate the pace of cancer research](https://youtu.be/Ip8_AHqeBXM)                                                 |
 | 10:00 AM               | Community     | Birds of a Feather: CDSB Community Meeting                                                                                     |
