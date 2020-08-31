@@ -47,7 +47,7 @@ All time is US Eastern Time. All sessions include Q&A time.
 | 8:40 AM                | Community   | [Presentation of the BioC Awards Ceremony](https://youtu.be/noHn5fEbBwA)                                                      |
 
 | 9:00 AM                | Talk     | [Keynote, Corrie Painter, Count Me In, Partnering with patients to accelerate the pace of cancer research](https://youtu.be/Ip8_AHqeBXM)                                                 |
-| 10:00 AM               | Community     | Birds of a Feather: CDSB Community Meeting                                                                                     |
+| 10:00 AM               | Community     | [Birds of a Feather: CDSB Community Meeting](https://youtu.be/U-ZFWmSxSOE)                                                                                     |
 | 11:00 AM               | Workshop | 200: Marcel Ramos, MultiAssayExperiment and curatedTCGAData Bioconductor 2020 workshop                                                       |
 | 12:00 PM               | Poster   | Poster Session A                                                                                                               |
 | 1:00 PM                | Workshop | 200: Aedin Culhane, Lauren Hsu, A introduction to matrix factorization, svd and principal component analysis                                                                            |
