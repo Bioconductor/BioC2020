@@ -52,7 +52,7 @@ All time is US Eastern Time. All sessions include Q&A time.
 | 12:00 PM               | Poster   | Poster Session A                                                                                                               |
 | 1:00 PM                | Workshop | [200: Aedin Culhane, Lauren Hsu, A introduction to matrix factorization, svd and principal component analysis](https://youtu.be/sP6rry9Yf2w)                                                                            |
 | 2:00 PM                | Talk     | [Keynote, Fei Chen, Slide-seq: a platform for understanding cellular circuits in tissue](https://youtu.be/UwoSLWlyC74)                                                            |
-| 3:00 PM                | Talk     | Contributed Talks 3, Lukas M. Weber, Dario Righelli, Lambda Lu, Ellis Patrick                                                                                                           |
+| 3:00 PM                | Talk     | [Contributed Talks 3, Lukas M. Weber, Dario Righelli, Lambda Lu, Ellis Patrick](https://youtu.be/bD_zaBpzCKY)                                                                                                           |
 | 4:00 PM                | Workshop | 200: Petr Smirnov, Arvind Mer, Christopher Eeles, A workshop on discovering biomarkers from high through put response   screens                                             |
 | 5:00 PM                | Workshop | 500: Qian Liu, Bioconductor toolchain for usage and development of reproducible   bioinformatics pipelines in CWL                        |
 | **Thursday,   7/30/3030**  |          |                                                                                                                                |
