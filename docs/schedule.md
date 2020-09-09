@@ -54,7 +54,7 @@ All time is US Eastern Time. All sessions include Q&A time.
 | 2:00 PM                | Talk     | [Keynote, Fei Chen, Slide-seq: a platform for understanding cellular circuits in tissue](https://youtu.be/UwoSLWlyC74)                                                            |
 | 3:00 PM                | Talk     | [Contributed Talks 3, Lukas M. Weber, Dario Righelli, Lambda Lu, Ellis Patrick](https://youtu.be/bD_zaBpzCKY)                                                                                                           |
 | 4:00 PM                | Workshop | [200: Petr Smirnov, Arvind Mer, Christopher Eeles, A workshop on discovering biomarkers from high through put response   screens](https://youtu.be/i2_b6JeN6Vc)                                             |
-| 5:00 PM                | Workshop | 500: Qian Liu, Bioconductor toolchain for usage and development of reproducible   bioinformatics pipelines in CWL                        |
+| 5:00 PM                | Workshop | [500: Qian Liu, Bioconductor toolchain for usage and development of reproducible   bioinformatics pipelines in CWL](https://youtu.be/JCxoQwz-95s)                        |
 | **Thursday,   7/30/3030**  |          |                                                                                                                                |
 | 8:00 AM                | Workshop | 500: Peter F. Hickey, Effectively Using the DelayedArray Framework to Support the Analysis   of Large Datasets                                  |
 | 9:00 AM                | Workshop | 100: Sehyun Oh, Levi Waldron, Cloud-based genomics using Terra/AnVIL                                                                                    |
