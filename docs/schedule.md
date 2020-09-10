@@ -58,7 +58,7 @@ All time is US Eastern Time. All sessions include Q&A time.
 | **Thursday,   7/30/3030**  |          |                                                                                                                                |
 | 8:00 AM                | Workshop | [500: Peter F. Hickey, Effectively Using the DelayedArray Framework to Support the Analysis   of Large Datasets](https://youtu.be/0x7Q4oyM7uA)                                  |
 | 9:00 AM                | Workshop | [100: Sehyun Oh, Levi Waldron, Cloud-based genomics using Terra/AnVIL](https://youtu.be/KYBDeDIf5tQ)                                                                                    |
-| 10:00 AM               | Workshop | 500: Mikhail Dozmorov, Detection of differentially interacting chromatin regions from   multiple Hi-C datasets                                   |
+| 10:00 AM               | Workshop | [500: Mikhail Dozmorov, Detection of differentially interacting chromatin regions from   multiple Hi-C datasets](https://youtu.be/f4RaQVwPMzo)                                   |
 | 11:00 AM               | Workshop | 500: Kayla Interdonato, Material on how to create and submit a package to Bioconductor                                                            |
 | 12:00 PM               | Community     | Birds of a Feather: Ten simple rules for thriving in bioinformatics   research                                                 |
 | 12:00 PM               | Community | Talk with the BioC Core Team                                                                                                   |
