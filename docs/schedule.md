@@ -61,7 +61,7 @@ All time is US Eastern Time. All sessions include Q&A time.
 | 10:00 AM               | Workshop | [500: Mikhail Dozmorov, Detection of differentially interacting chromatin regions from   multiple Hi-C datasets](https://youtu.be/f4RaQVwPMzo)                                   |
 | 11:00 AM               | Workshop | [500: Kayla Interdonato, Material on how to create and submit a package to Bioconductor](https://youtu.be/fq3kx6FZ6lY)                                                            |
 | 12:00 PM               | Community     | Birds of a Feather: Ten simple rules for thriving in bioinformatics   research                                                 |
-| 12:00 PM               | Community | Talk with the BioC Core Team                                                                                                   |
+| 12:00 PM               | Community | [Talk with the BioC Core Team](https://youtu.be/a0EB893-O_A)                                                                                                   |
 | 1:00 PM                | Talk     | Lightning Talks                                                                                                                |
 | 2:00 PM                | Talk     | [Keynote, X Shirley Liu, Computational modeling of protein degradation in tumors](https://youtu.be/WhNFqi5eP3I)                                                                        |
 | 3:00 PM                | Talk     | Contributed Talks 4, Anthony Mammoliti, Shradda Pai, Gabriel Odom. Ruth Schmidt                                                                                                            |
