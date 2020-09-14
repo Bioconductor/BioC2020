@@ -64,7 +64,7 @@ All time is US Eastern Time. All sessions include Q&A time.
 | 12:00 PM               | Community | [Talk with the BioC Core Team](https://youtu.be/a0EB893-O_A)                                                                                                   |
 | 1:00 PM                | Talk     | [Lightning Talks, Session #2](https://youtu.be/DOYepK47RH8)                                                                                                                |
 | 2:00 PM                | Talk     | [Keynote, X Shirley Liu, Computational modeling of protein degradation in tumors](https://youtu.be/WhNFqi5eP3I)                                                                        |
-| 3:00 PM                | Talk     | Contributed Talks 4, Anthony Mammoliti, Shradda Pai, Gabriel Odom. Ruth Schmidt                                                                                                            |
+| 3:00 PM                | Talk     | [Contributed Talks 4, Anthony Mammoliti, Shradda Pai, Gabriel Odom. Ruth Schmidt](https://youtu.be/GdHB9jwios8)                                                                                                            |
 | 4:00 PM                | Workshop | 500: Anthony Federico, Efficient, scalable, and reproducible enrichment workflows                                                                |
 | 5:00 PM                | Workshop | 200: Michael Love, Importing alevin scRNA-seq counts into R/Bioconductor                                                                     |
 | **Friday,   7/31/2020**    |          |                                                                                                                                |
