@@ -66,7 +66,7 @@ All time is US Eastern Time. All sessions include Q&A time.
 | 2:00 PM                | Talk     | [Keynote, X Shirley Liu, Computational modeling of protein degradation in tumors](https://youtu.be/WhNFqi5eP3I)                                                                        |
 | 3:00 PM                | Talk     | [Contributed Talks 4, Anthony Mammoliti, Shradda Pai, Gabriel Odom. Ruth Schmidt](https://youtu.be/GdHB9jwios8)                                                                                                            |
 | 4:00 PM                | Workshop | 500: Anthony Federico, Efficient, scalable, and reproducible enrichment workflows                                                                |
-| 5:00 PM                | Workshop | 200: Michael Love, Importing alevin scRNA-seq counts into R/Bioconductor                                                                     |
+| 5:00 PM                | Workshop | [200: Michael Love, Importing alevin scRNA-seq counts into R/Bioconductor](https://youtu.be/FL5GFXeBuvc)                                                                     |
 | **Friday,   7/31/2020**    |          |                                                                                                                                |
 | 8:00 AM                | Poster   | Poster Session B                                                                                                               |
 | 9:00 AM                | Talk     | [Keynote, Caroline Uhler, Multi-Domain Data Integration: From Observations to Mechanistic Insights](https://youtu.be/EyUrToDdMWY)                                                       |
