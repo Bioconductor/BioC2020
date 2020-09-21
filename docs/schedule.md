@@ -72,7 +72,7 @@ All time is US Eastern Time. All sessions include Q&A time.
 | 8:00 AM                | Poster   | Poster Session B                                                                                                               |
 | 9:00 AM                | Talk     | [Keynote, Caroline Uhler, Multi-Domain Data Integration: From Observations to Mechanistic Insights](https://youtu.be/EyUrToDdMWY)                                                       |
 | 10:00 AM               | Talk     | [Contributed Talks 5, Emma Jablonski, Shian Su, Hena Ramay, Jayaram Kancheria](https://youtu.be/MToJ_oOXm_c)                                                                                                            |
-| 11:00 AM               | Workshop | 500: Kelly Street, Koen Van den Berge, Trajectory inference across conditions: differential expression and   differential progression                            |
+| 11:00 AM               | Workshop | [500: Kelly Street, Koen Van den Berge, Trajectory inference across conditions: differential expression and   differential progression](https://youtu.be/Fbd08bIv4yk)                            |
 | 12:00 PM               | Community     | Birds of a Feather: Reproducible environments for integrated   computational workflows                                         |
 | 12:00 PM               | Community | Talk with the BioC Core Team                                                                                                   |
 | 1:00 PM                | Talk     | Lightning Talks                                                                                                                |
