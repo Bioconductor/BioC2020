@@ -74,7 +74,7 @@ All time is US Eastern Time. All sessions include Q&A time.
 | 10:00 AM               | Talk     | [Contributed Talks 5, Emma Jablonski, Shian Su, Hena Ramay, Jayaram Kancheria](https://youtu.be/MToJ_oOXm_c)                                                                                                            |
 | 11:00 AM               | Workshop | [500: Kelly Street, Koen Van den Berge, Trajectory inference across conditions: differential expression and   differential progression](https://youtu.be/Fbd08bIv4yk)                            |
 | 12:00 PM               | Community     | Birds of a Feather: Reproducible environments for integrated   computational workflows                                         |
-| 12:00 PM               | Community | Talk with the BioC Core Team                                                                                                   |
+| 12:00 PM               | Community | [Talk with the BioC Core Team](https://youtu.be/hf2qzpK81II)                                                                                                   |
 | 1:00 PM                | Talk     | [Lightning Talks](https://youtu.be/ameCkKFvm0I)                                                                                                                |
 | 2:00 PM                | Talk     | [Keynote, Aaron Lun, Making the infrastructure sausage: tales of Bioconductor package development](https://youtu.be/wQJbSh-NHeg)                                                 |
 | 3:00 PM                | Talk     | Contributed Talks 6, Charlotte Soneson, Davide Risso, Anthony Sonrel, Stephanie Hicks                                                                                                            |
