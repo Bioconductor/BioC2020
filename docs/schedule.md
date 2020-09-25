@@ -77,7 +77,7 @@ All time is US Eastern Time. All sessions include Q&A time.
 | 12:00 PM               | Community | [Talk with the BioC Core Team](https://youtu.be/hf2qzpK81II)                                                                                                   |
 | 1:00 PM                | Talk     | [Lightning Talks](https://youtu.be/ameCkKFvm0I)                                                                                                                |
 | 2:00 PM                | Talk     | [Keynote, Aaron Lun, Making the infrastructure sausage: tales of Bioconductor package development](https://youtu.be/wQJbSh-NHeg)                                                 |
-| 3:00 PM                | Talk     | Contributed Talks 6, Charlotte Soneson, Davide Risso, Anthony Sonrel, Stephanie Hicks                                                                                                            |
+| 3:00 PM                | Talk     | [Contributed Talks 6, Charlotte Soneson, Davide Risso, Anthony Sonrel, Stephanie Hicks](https://youtu.be/09DxXqZ2KJo)                                                                                                            |
 | 4:00 PM                | Talk     | Closing Remarks                                                                                                                |
 | 4:30 PM                |          | Happy Hour                                                                                                                     |
 
